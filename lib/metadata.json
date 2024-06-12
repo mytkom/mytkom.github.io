@@ -1,11 +1,41 @@
 {
   "vaultName": "Term6",
-  "lastExport": 1717444476746,
+  "lastExport": 1718192649044,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "Fizyka 2/Zerówka/! Zagadnienia.md",
+    "Fizyka 2/Zerówka/cykl Carnota.md",
+    "Fizyka 2/Zerówka/doświadczenie Franka-Hertza.md",
+    "Fizyka 2/Zerówka/doświadczenie Ratherforda.md",
+    "Fizyka 2/Zerówka/druga zasada termodynamiki.md",
+    "Fizyka 2/Zerówka/dyfrakcja Fresnela.md",
+    "Fizyka 2/Zerówka/efekt Comptona.md",
+    "Fizyka 2/Zerówka/efekt Dopplera.md",
+    "Fizyka 2/Zerówka/entropia.md",
+    "Fizyka 2/Zerówka/fale de Broglie'a.md",
+    "Fizyka 2/Zerówka/interferencja.md",
+    "Fizyka 2/Zerówka/liczby kwantowe wodoru.md",
+    "Fizyka 2/Zerówka/model Bohra atomu.md",
+    "Fizyka 2/Zerówka/pierwsza zasada termodynamiki.md",
+    "Fizyka 2/Zerówka/polaryzacja światła.md",
+    "Fizyka 2/Zerówka/procesy gazu doskonałego.md",
+    "Fizyka 2/Zerówka/promienie Roentgena.md",
+    "Fizyka 2/Zerówka/pryzmat.md",
+    "Fizyka 2/Zerówka/równanie Schroedingera.md",
+    "Fizyka 2/Zerówka/równanie teorii kinet. molek..md",
+    "Fizyka 2/Zerówka/rozkład prędkości Maxwella.md",
+    "Fizyka 2/Zerówka/soczewka.md",
+    "Fizyka 2/Zerówka/temperatura i entropia statyst..md",
+    "Fizyka 2/Zerówka/współczynnik załamania.md",
+    "Fizyka 2/Zerówka/wzór barometryczny.md",
+    "Fizyka 2/Zerówka/zakaz Pauliego.md",
+    "Fizyka 2/Zerówka/zasada ekwipartycji (Boltzmanna).md",
+    "Fizyka 2/Zerówka/zasada Fermata.md",
+    "Fizyka 2/Zerówka/zasada nieoznaczoności Heisenberga.md",
+    "Fizyka 2/Zerówka/zjawisko fotoelektryczne.md",
     "Fizyka 2/Laby pomiary.md",
     "Fizyka 2/Wykład 1.md",
     "Fizyka 2/Wykład 2.md",
@@ -20,6 +50,196 @@
     "Fizyka 2/Wykład 11.md",
     "Fizyka 2/Wykład 12.md",
     "Fizyka 2/Wykład 13.md",
+    "Fizyka 2/Wykład 14.md",
+    "lib/media/pasted-image-20240410184929.png",
+    "lib/media/pasted-image-20240410185059.png",
+    "lib/media/pasted-image-20240410185102.png",
+    "lib/media/pasted-image-20240410182334.png",
+    "lib/media/pasted-image-20240410183159.png",
+    "lib/media/pasted-image-20240410183233.png",
+    "lib/media/pasted-image-20240327173701.png",
+    "lib/media/pasted-image-20240327173704.png",
+    "lib/media/pasted-image-20240327174227.png",
+    "lib/media/pasted-image-20240327174329.png",
+    "lib/media/pasted-image-20240327174828.png",
+    "lib/media/pasted-image-20240327174923.png",
+    "lib/media/pasted-image-20240327175017.png",
+    "lib/media/pasted-image-20240327175505.png",
+    "lib/media/pasted-image-20240410173936.png",
+    "lib/media/pasted-image-20240410174318.png",
+    "lib/media/pasted-image-20240327183135.png",
+    "lib/media/pasted-image-20240306173153.png",
+    "lib/media/pasted-image-20240410174520.png",
+    "lib/media/pasted-image-20240410175007.png",
+    "lib/media/pasted-image-20240321130438.png",
+    "lib/media/pasted-image-20240321131007.png",
+    "lib/media/pasted-image-20240321131305.png",
+    "lib/media/pasted-image-20240321132101.png",
+    "lib/media/pasted-image-20240410183605.png",
+    "lib/media/pasted-image-20240410183641.png",
+    "lib/media/pasted-image-20240410183644.png",
+    "lib/media/pasted-image-20240410183650.png",
+    "lib/media/pasted-image-20240410184215.png",
+    "lib/media/pasted-image-20240410184556.png",
+    "lib/media/pasted-image-20240327175752.png",
+    "lib/media/pasted-image-20240327175945.png",
+    "lib/media/pasted-image-20240327181513.png",
+    "lib/media/pasted-image-20240327181516.png",
+    "lib/media/pasted-image-20240327181820.png",
+    "lib/media/pasted-image-20240327182202.png",
+    "lib/media/pasted-image-20240327182206.png",
+    "lib/media/pasted-image-20240327182409.png",
+    "lib/media/pasted-image-20240410172941.png",
+    "lib/media/pasted-image-20240410173134.png",
+    "lib/media/pasted-image-20240410173154.png",
+    "lib/media/pasted-image-20240410173813.png",
+    "lib/media/pasted-image-20240321122602.png",
+    "lib/media/pasted-image-20240321122931.png",
+    "lib/media/pasted-image-20240610204432.png",
+    "lib/media/pasted-image-20240320175729.png",
+    "lib/media/pasted-image-20240320180142.png",
+    "lib/media/pasted-image-20240321123516.png",
+    "lib/media/pasted-image-20240321123659.png",
+    "lib/media/pasted-image-20240321124031.png",
+    "lib/media/pasted-image-20240321124035.png",
+    "lib/media/pasted-image-20240508184032.png",
+    "lib/media/pasted-image-20240508184035.png",
+    "lib/media/pasted-image-20240327185100.png",
+    "lib/media/pasted-image-20240327185103.png",
+    "lib/media/pasted-image-20240327185351.png",
+    "lib/media/pasted-image-20240327185356.png",
+    "lib/media/pasted-image-20240327185443.png",
+    "lib/media/pasted-image-20240410171746.png",
+    "lib/media/pasted-image-20240410172138.png",
+    "lib/media/pasted-image-20240410172421.png",
+    "lib/media/pasted-image-20240410172548.png",
+    "lib/media/pasted-image-20240410171355.png",
+    "lib/media/pasted-image-20240410175132.png",
+    "lib/media/pasted-image-20240410175421.png",
+    "lib/media/pasted-image-20240410175539.png",
+    "lib/media/pasted-image-20240410175759.png",
+    "lib/media/pasted-image-20240410181729.png",
+    "lib/media/pasted-image-20240410181932.png",
+    "lib/media/pasted-image-20240410182224.png",
+    "lib/media/pasted-image-20240410183402.png",
+    "lib/media/pasted-image-20240410185614.png",
+    "lib/media/pasted-image-20240410185617.png",
+    "lib/media/pasted-image-20240410185620.png",
+    "lib/media/pasted-image-20240410185625.png",
+    "lib/media/pasted-image-20240410185642.png",
+    "lib/media/pasted-image-20240410185645.png",
+    "lib/media/pasted-image-20240410185648.png",
+    "lib/media/pasted-image-20240410185924.png",
+    "lib/media/pasted-image-20240605173358.png",
+    "lib/media/pasted-image-20240605173430.png",
+    "lib/media/pasted-image-20240605173730.png",
+    "lib/media/pasted-image-20240605173850.png",
+    "lib/media/pasted-image-20240605173855.png",
+    "lib/media/pasted-image-20240605173901.png",
+    "lib/media/pasted-image-20240605174154.png",
+    "lib/media/pasted-image-20240605174606.png",
+    "lib/media/pasted-image-20240605174638.png",
+    "lib/media/pasted-image-20240605174959.png",
+    "lib/media/pasted-image-20240605175005.png",
+    "lib/media/pasted-image-20240605175147.png",
+    "lib/media/pasted-image-20240605175233.png",
+    "lib/media/pasted-image-20240605175503.png",
+    "lib/media/pasted-image-20240605175547.png",
+    "lib/media/pasted-image-20240605175801.png",
+    "lib/media/pasted-image-20240605175910.png",
+    "lib/media/pasted-image-20240605181623.png",
+    "lib/media/pasted-image-20240605181629.png",
+    "lib/media/pasted-image-20240605181632.png",
+    "lib/media/pasted-image-20240605181746.png",
+    "lib/media/pasted-image-20240605181929.png",
+    "lib/media/pasted-image-20240605182329.png",
+    "lib/media/pasted-image-20240605182338.png",
+    "lib/media/pasted-image-20240605182647.png",
+    "lib/media/pasted-image-20240605182651.png",
+    "lib/media/pasted-image-20240605182930.png",
+    "lib/media/pasted-image-20240605183024.png",
+    "lib/media/pasted-image-20240605183058.png",
+    "lib/media/pasted-image-20240605183438.png",
+    "lib/media/pasted-image-20240605183632.png",
+    "lib/media/pasted-image-20240605183710.png",
+    "lib/media/pasted-image-20240605184223.png",
+    "lib/media/pasted-image-20240605184429.png",
+    "lib/media/pasted-image-20240605184618.png",
+    "lib/media/pasted-image-20240605184725.png",
+    "lib/media/pasted-image-20240605184956.png",
+    "lib/media/pasted-image-20240605185102.png",
+    "lib/media/pasted-image-20240605185131.png",
+    "lib/media/pasted-image-20240605185244.png",
+    "lib/media/pasted-image-20240605185444.png",
+    "lib/media/pasted-image-20240605185548.png",
+    "lib/media/pasted-image-20240605185552.png",
+    "lib/media/pasted-image-20240605185600.png",
+    "lib/media/pasted-image-20240605185716.png",
+    "lib/media/pasted-image-20240605185834.png",
+    "lib/media/pasted-image-20240605185929.png",
+    "lib/media/pasted-image-20240605185944.png",
+    "lib/media/pasted-image-20240605185948.png",
+    "lib/media/pasted-image-20240605190116.png",
+    "lib/media/pasted-image-20240605190200.png",
+    "lib/media/pasted-image-20240605190218.png",
+    "lib/media/pasted-image-20240605190316.png",
+    "lib/media/pasted-image-20240605190327.png",
+    "lib/media/pasted-image-20240605190330.png",
+    "lib/media/pasted-image-20240605190413.png",
+    "lib/media/pasted-image-20240605190423.png",
+    "lib/media/pasted-image-20240605190427.png",
+    "lib/media/pasted-image-20240605190437.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
     "lib/media/pasted-image-20240221172339.png",
     "lib/media/pasted-image-20240221172444.png",
     "lib/media/pasted-image-20240221172644.png",
@@ -86,7 +306,6 @@
     "lib/media/pasted-image-20240228185701.png",
     "lib/media/pasted-image-20240228185819.png",
     "lib/media/pasted-image-20240306171849.png",
-    "lib/media/pasted-image-20240306173153.png",
     "lib/media/pasted-image-20240306173907.png",
     "lib/media/pasted-image-20240306173910.png",
     "lib/media/pasted-image-20240306174507.png",
@@ -141,9 +360,7 @@
     "lib/media/pasted-image-20240320175257.png",
     "lib/media/pasted-image-20240320175406.png",
     "lib/media/pasted-image-20240320175437.png",
-    "lib/media/pasted-image-20240320175729.png",
     "lib/media/pasted-image-20240320175945.png",
-    "lib/media/pasted-image-20240320180142.png",
     "lib/media/pasted-image-20240320180615.png",
     "lib/media/pasted-image-20240320180618.png",
     "lib/media/pasted-image-20240320180621.png",
@@ -174,13 +391,7 @@
     "lib/media/pasted-image-20240321122031.png",
     "lib/media/pasted-image-20240321122036.png",
     "lib/media/pasted-image-20240321122455.png",
-    "lib/media/pasted-image-20240321122602.png",
-    "lib/media/pasted-image-20240321122931.png",
     "lib/media/pasted-image-20240321123332.png",
-    "lib/media/pasted-image-20240321123516.png",
-    "lib/media/pasted-image-20240321123659.png",
-    "lib/media/pasted-image-20240321124031.png",
-    "lib/media/pasted-image-20240321124035.png",
     "lib/media/pasted-image-20240321124039.png",
     "lib/media/pasted-image-20240321124415.png",
     "lib/media/pasted-image-20240321124816.png",
@@ -190,12 +401,8 @@
     "lib/media/pasted-image-20240321125417.png",
     "lib/media/pasted-image-20240321130236.png",
     "lib/media/pasted-image-20240321130328.png",
-    "lib/media/pasted-image-20240321130438.png",
-    "lib/media/pasted-image-20240321131007.png",
     "lib/media/pasted-image-20240321131010.png",
-    "lib/media/pasted-image-20240321131305.png",
     "lib/media/pasted-image-20240321131500.png",
-    "lib/media/pasted-image-20240321132101.png",
     "lib/media/pasted-image-20240321132252.png",
     "lib/media/pasted-image-20240321132843.png",
     "lib/media/pasted-image-20240321133040.png",
@@ -206,78 +413,15 @@
     "lib/media/pasted-image-20240321133742.png",
     "lib/media/pasted-image-20240321133842.png",
     "lib/media/pasted-image-20240327173643.png",
-    "lib/media/pasted-image-20240327173701.png",
-    "lib/media/pasted-image-20240327173704.png",
-    "lib/media/pasted-image-20240327174227.png",
-    "lib/media/pasted-image-20240327174329.png",
-    "lib/media/pasted-image-20240327174828.png",
-    "lib/media/pasted-image-20240327174923.png",
-    "lib/media/pasted-image-20240327175017.png",
-    "lib/media/pasted-image-20240327175505.png",
-    "lib/media/pasted-image-20240327175752.png",
-    "lib/media/pasted-image-20240327175945.png",
-    "lib/media/pasted-image-20240327181513.png",
-    "lib/media/pasted-image-20240327181516.png",
-    "lib/media/pasted-image-20240327181820.png",
-    "lib/media/pasted-image-20240327182202.png",
-    "lib/media/pasted-image-20240327182206.png",
-    "lib/media/pasted-image-20240327182409.png",
     "lib/media/pasted-image-20240327182751.png",
     "lib/media/pasted-image-20240327182909.png",
     "lib/media/pasted-image-20240327182928.png",
     "lib/media/pasted-image-20240327182934.png",
-    "lib/media/pasted-image-20240327183135.png",
     "lib/media/pasted-image-20240327183337.png",
     "lib/media/pasted-image-20240327183541.png",
     "lib/media/pasted-image-20240327184451.png",
     "lib/media/pasted-image-20240327184454.png",
     "lib/media/pasted-image-20240327185057.png",
-    "lib/media/pasted-image-20240327185100.png",
-    "lib/media/pasted-image-20240327185103.png",
-    "lib/media/pasted-image-20240327185351.png",
-    "lib/media/pasted-image-20240327185356.png",
-    "lib/media/pasted-image-20240327185443.png",
-    "lib/media/pasted-image-20240410171355.png",
-    "lib/media/pasted-image-20240410171746.png",
-    "lib/media/pasted-image-20240410172138.png",
-    "lib/media/pasted-image-20240410172421.png",
-    "lib/media/pasted-image-20240410172548.png",
-    "lib/media/pasted-image-20240410172941.png",
-    "lib/media/pasted-image-20240410173134.png",
-    "lib/media/pasted-image-20240410173154.png",
-    "lib/media/pasted-image-20240410173813.png",
-    "lib/media/pasted-image-20240410173936.png",
-    "lib/media/pasted-image-20240410174318.png",
-    "lib/media/pasted-image-20240410174520.png",
-    "lib/media/pasted-image-20240410175007.png",
-    "lib/media/pasted-image-20240410175132.png",
-    "lib/media/pasted-image-20240410175421.png",
-    "lib/media/pasted-image-20240410175539.png",
-    "lib/media/pasted-image-20240410175759.png",
-    "lib/media/pasted-image-20240410181729.png",
-    "lib/media/pasted-image-20240410181932.png",
-    "lib/media/pasted-image-20240410182224.png",
-    "lib/media/pasted-image-20240410182334.png",
-    "lib/media/pasted-image-20240410183159.png",
-    "lib/media/pasted-image-20240410183233.png",
-    "lib/media/pasted-image-20240410183402.png",
-    "lib/media/pasted-image-20240410183605.png",
-    "lib/media/pasted-image-20240410183641.png",
-    "lib/media/pasted-image-20240410183644.png",
-    "lib/media/pasted-image-20240410183650.png",
-    "lib/media/pasted-image-20240410184215.png",
-    "lib/media/pasted-image-20240410184556.png",
-    "lib/media/pasted-image-20240410184929.png",
-    "lib/media/pasted-image-20240410185059.png",
-    "lib/media/pasted-image-20240410185102.png",
-    "lib/media/pasted-image-20240410185614.png",
-    "lib/media/pasted-image-20240410185617.png",
-    "lib/media/pasted-image-20240410185620.png",
-    "lib/media/pasted-image-20240410185625.png",
-    "lib/media/pasted-image-20240410185642.png",
-    "lib/media/pasted-image-20240410185645.png",
-    "lib/media/pasted-image-20240410185648.png",
-    "lib/media/pasted-image-20240410185924.png",
     "lib/media/pasted-image-20240417144751.png",
     "lib/media/pasted-image-20240417144803.png",
     "lib/media/pasted-image-20240417145231.png",
@@ -330,8 +474,6 @@
     "lib/media/pasted-image-20240508183423.png",
     "lib/media/pasted-image-20240508183514.png",
     "lib/media/pasted-image-20240508183922.png",
-    "lib/media/pasted-image-20240508184032.png",
-    "lib/media/pasted-image-20240508184035.png",
     "lib/media/pasted-image-20240508184603.png",
     "lib/media/pasted-image-20240508184621.png",
     "lib/media/pasted-image-20240522173024.png",
@@ -422,58 +564,7 @@
     "lib/media/pasted-image-20240529185801.png",
     "lib/media/pasted-image-20240529185814.png",
     "lib/media/pasted-image-20240529185818.png",
-    "lib/media/pasted-image-20240529185855.png",
-    "lib/scripts/graph-wasm.wasm",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css"
+    "lib/media/pasted-image-20240529185855.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -491,6 +582,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/fonts/mathjax_zero.woff",
     "lib/fonts/mathjax_main-regular.woff",
     "lib/fonts/mathjax_main-bold.woff",
@@ -525,7 +617,6 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
@@ -802,7 +893,7 @@
       ]
     },
     "Fizyka 2/Wykład 8.md": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 2463,
       "exportedPath": "fizyka-2/wykład-8.html",
       "dependencies": [
@@ -1426,7 +1517,7 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240306173153.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 65751,
       "exportedPath": "lib/media/pasted-image-20240306173153.png",
       "dependencies": []
@@ -1756,7 +1847,7 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240320175729.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 184034,
       "exportedPath": "lib/media/pasted-image-20240320175729.png",
       "dependencies": []
@@ -1768,7 +1859,7 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240320180142.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 107951,
       "exportedPath": "lib/media/pasted-image-20240320180142.png",
       "dependencies": []
@@ -1954,13 +2045,13 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240321122602.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 142231,
       "exportedPath": "lib/media/pasted-image-20240321122602.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240321122931.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 83074,
       "exportedPath": "lib/media/pasted-image-20240321122931.png",
       "dependencies": []
@@ -1972,25 +2063,25 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240321123516.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 112847,
       "exportedPath": "lib/media/pasted-image-20240321123516.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240321123659.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 117478,
       "exportedPath": "lib/media/pasted-image-20240321123659.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240321124031.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 189564,
       "exportedPath": "lib/media/pasted-image-20240321124031.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240321124035.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 270550,
       "exportedPath": "lib/media/pasted-image-20240321124035.png",
       "dependencies": []
@@ -2050,13 +2141,13 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240321130438.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 99262,
       "exportedPath": "lib/media/pasted-image-20240321130438.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240321131007.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 211563,
       "exportedPath": "lib/media/pasted-image-20240321131007.png",
       "dependencies": []
@@ -2068,7 +2159,7 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240321131305.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 201816,
       "exportedPath": "lib/media/pasted-image-20240321131305.png",
       "dependencies": []
@@ -2080,7 +2171,7 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240321132101.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 289134,
       "exportedPath": "lib/media/pasted-image-20240321132101.png",
       "dependencies": []
@@ -2146,97 +2237,97 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240327173701.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 163823,
       "exportedPath": "lib/media/pasted-image-20240327173701.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327173704.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 148511,
       "exportedPath": "lib/media/pasted-image-20240327173704.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327174227.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 64296,
       "exportedPath": "lib/media/pasted-image-20240327174227.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327174329.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 194608,
       "exportedPath": "lib/media/pasted-image-20240327174329.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327174828.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 561906,
       "exportedPath": "lib/media/pasted-image-20240327174828.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327174923.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 318250,
       "exportedPath": "lib/media/pasted-image-20240327174923.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327175017.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 112766,
       "exportedPath": "lib/media/pasted-image-20240327175017.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327175505.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 305062,
       "exportedPath": "lib/media/pasted-image-20240327175505.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327175752.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 160369,
       "exportedPath": "lib/media/pasted-image-20240327175752.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327175945.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 86656,
       "exportedPath": "lib/media/pasted-image-20240327175945.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327181513.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 334961,
       "exportedPath": "lib/media/pasted-image-20240327181513.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327181516.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 170991,
       "exportedPath": "lib/media/pasted-image-20240327181516.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327181820.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 197897,
       "exportedPath": "lib/media/pasted-image-20240327181820.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327182202.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 612894,
       "exportedPath": "lib/media/pasted-image-20240327182202.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327182206.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 189126,
       "exportedPath": "lib/media/pasted-image-20240327182206.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327182409.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 702511,
       "exportedPath": "lib/media/pasted-image-20240327182409.png",
       "dependencies": []
@@ -2266,7 +2357,7 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240327183135.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 119694,
       "exportedPath": "lib/media/pasted-image-20240327183135.png",
       "dependencies": []
@@ -2302,277 +2393,277 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240327185100.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 94693,
       "exportedPath": "lib/media/pasted-image-20240327185100.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327185103.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 185725,
       "exportedPath": "lib/media/pasted-image-20240327185103.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327185351.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 94185,
       "exportedPath": "lib/media/pasted-image-20240327185351.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327185356.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 150823,
       "exportedPath": "lib/media/pasted-image-20240327185356.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240327185443.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 193755,
       "exportedPath": "lib/media/pasted-image-20240327185443.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410171355.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 192786,
       "exportedPath": "lib/media/pasted-image-20240410171355.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410171746.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 53839,
       "exportedPath": "lib/media/pasted-image-20240410171746.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410172138.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 124463,
       "exportedPath": "lib/media/pasted-image-20240410172138.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410172421.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 170300,
       "exportedPath": "lib/media/pasted-image-20240410172421.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410172548.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 121553,
       "exportedPath": "lib/media/pasted-image-20240410172548.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410172941.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 106019,
       "exportedPath": "lib/media/pasted-image-20240410172941.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410173134.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 207532,
       "exportedPath": "lib/media/pasted-image-20240410173134.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410173154.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 71789,
       "exportedPath": "lib/media/pasted-image-20240410173154.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410173813.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 77788,
       "exportedPath": "lib/media/pasted-image-20240410173813.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410173936.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 100379,
       "exportedPath": "lib/media/pasted-image-20240410173936.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410174318.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 137000,
       "exportedPath": "lib/media/pasted-image-20240410174318.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410174520.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 181923,
       "exportedPath": "lib/media/pasted-image-20240410174520.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410175007.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 138015,
       "exportedPath": "lib/media/pasted-image-20240410175007.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410175132.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 106854,
       "exportedPath": "lib/media/pasted-image-20240410175132.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410175421.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 70268,
       "exportedPath": "lib/media/pasted-image-20240410175421.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410175539.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 84886,
       "exportedPath": "lib/media/pasted-image-20240410175539.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410175759.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 206217,
       "exportedPath": "lib/media/pasted-image-20240410175759.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410181729.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 363843,
       "exportedPath": "lib/media/pasted-image-20240410181729.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410181932.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 419377,
       "exportedPath": "lib/media/pasted-image-20240410181932.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410182224.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 358769,
       "exportedPath": "lib/media/pasted-image-20240410182224.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410182334.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 201762,
       "exportedPath": "lib/media/pasted-image-20240410182334.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410183159.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 77279,
       "exportedPath": "lib/media/pasted-image-20240410183159.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410183233.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 481641,
       "exportedPath": "lib/media/pasted-image-20240410183233.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410183402.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 157749,
       "exportedPath": "lib/media/pasted-image-20240410183402.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410183605.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 123118,
       "exportedPath": "lib/media/pasted-image-20240410183605.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410183641.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 98422,
       "exportedPath": "lib/media/pasted-image-20240410183641.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410183644.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 163534,
       "exportedPath": "lib/media/pasted-image-20240410183644.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410183650.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 72191,
       "exportedPath": "lib/media/pasted-image-20240410183650.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410184215.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 185993,
       "exportedPath": "lib/media/pasted-image-20240410184215.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410184556.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 71973,
       "exportedPath": "lib/media/pasted-image-20240410184556.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410184929.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 114909,
       "exportedPath": "lib/media/pasted-image-20240410184929.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410185059.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 79164,
       "exportedPath": "lib/media/pasted-image-20240410185059.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410185102.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 156494,
       "exportedPath": "lib/media/pasted-image-20240410185102.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410185614.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 322925,
       "exportedPath": "lib/media/pasted-image-20240410185614.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410185617.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 153861,
       "exportedPath": "lib/media/pasted-image-20240410185617.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410185620.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 436849,
       "exportedPath": "lib/media/pasted-image-20240410185620.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410185625.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 210548,
       "exportedPath": "lib/media/pasted-image-20240410185625.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410185642.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 161873,
       "exportedPath": "lib/media/pasted-image-20240410185642.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410185645.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 862768,
       "exportedPath": "lib/media/pasted-image-20240410185645.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410185648.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 510010,
       "exportedPath": "lib/media/pasted-image-20240410185648.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240410185924.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 838704,
       "exportedPath": "lib/media/pasted-image-20240410185924.png",
       "dependencies": []
@@ -2890,13 +2981,13 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240508184032.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 124485,
       "exportedPath": "lib/media/pasted-image-20240508184032.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240508184035.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 447208,
       "exportedPath": "lib/media/pasted-image-20240508184035.png",
       "dependencies": []
@@ -3448,295 +3539,295 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1717444476746,
-      "sourceSize": 11547,
+      "modifiedTime": 1718192649044,
+      "sourceSize": 35261,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1717444476746,
-      "sourceSize": 831,
+      "modifiedTime": 1718192649044,
+      "sourceSize": 3553,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1717444476746,
-      "sourceSize": 157722,
+      "modifiedTime": 1718192649044,
+      "sourceSize": 130183,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 253,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
@@ -3748,9 +3839,699 @@
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1717444476746,
+      "modifiedTime": 1718192649044,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/! Zagadnienia.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 944,
+      "exportedPath": "fizyka-2/zerówka/!-zagadnienia.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/cykl Carnota.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 310,
+      "exportedPath": "fizyka-2/zerówka/cykl-carnota.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/doświadczenie Franka-Hertza.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 111,
+      "exportedPath": "fizyka-2/zerówka/doświadczenie-franka-hertza.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240410184929.png",
+        "lib/media/pasted-image-20240410185059.png",
+        "lib/media/pasted-image-20240410185102.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/doświadczenie Ratherforda.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 340,
+      "exportedPath": "fizyka-2/zerówka/doświadczenie-ratherforda.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240410182334.png",
+        "lib/media/pasted-image-20240410183159.png",
+        "lib/media/pasted-image-20240410183233.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/druga zasada termodynamiki.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 201,
+      "exportedPath": "fizyka-2/zerówka/druga-zasada-termodynamiki.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/dyfrakcja Fresnela.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 295,
+      "exportedPath": "fizyka-2/zerówka/dyfrakcja-fresnela.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240327173701.png",
+        "lib/media/pasted-image-20240327173704.png",
+        "lib/media/pasted-image-20240327174227.png",
+        "lib/media/pasted-image-20240327174329.png",
+        "lib/media/pasted-image-20240327174828.png",
+        "lib/media/pasted-image-20240327174923.png",
+        "lib/media/pasted-image-20240327175017.png",
+        "lib/media/pasted-image-20240327175505.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/efekt Comptona.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 116,
+      "exportedPath": "fizyka-2/zerówka/efekt-comptona.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240410173936.png",
+        "lib/media/pasted-image-20240410174318.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/efekt Dopplera.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 334,
+      "exportedPath": "fizyka-2/zerówka/efekt-dopplera.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240327183135.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/entropia.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 498,
+      "exportedPath": "fizyka-2/zerówka/entropia.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240306173153.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/fale de Broglie'a.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 299,
+      "exportedPath": "fizyka-2/zerówka/fale-de-broglie'a.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240410174520.png",
+        "lib/media/pasted-image-20240410175007.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/interferencja.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 643,
+      "exportedPath": "fizyka-2/zerówka/interferencja.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240321130438.png",
+        "lib/media/pasted-image-20240321131007.png",
+        "lib/media/pasted-image-20240321131305.png",
+        "lib/media/pasted-image-20240321132101.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/liczby kwantowe wodoru.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 0,
+      "exportedPath": "fizyka-2/zerówka/liczby-kwantowe-wodoru.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/model Bohra atomu.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 434,
+      "exportedPath": "fizyka-2/zerówka/model-bohra-atomu.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240410183605.png",
+        "lib/media/pasted-image-20240410183641.png",
+        "lib/media/pasted-image-20240410183644.png",
+        "lib/media/pasted-image-20240410183650.png",
+        "lib/media/pasted-image-20240410184215.png",
+        "lib/media/pasted-image-20240410184556.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/pierwsza zasada termodynamiki.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 652,
+      "exportedPath": "fizyka-2/zerówka/pierwsza-zasada-termodynamiki.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/polaryzacja światła.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 558,
+      "exportedPath": "fizyka-2/zerówka/polaryzacja-światła.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240327175752.png",
+        "lib/media/pasted-image-20240327175945.png",
+        "lib/media/pasted-image-20240327181513.png",
+        "lib/media/pasted-image-20240327181516.png",
+        "lib/media/pasted-image-20240327181820.png",
+        "lib/media/pasted-image-20240327182202.png",
+        "lib/media/pasted-image-20240327182206.png",
+        "lib/media/pasted-image-20240327182409.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/procesy gazu doskonałego.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 1231,
+      "exportedPath": "fizyka-2/zerówka/procesy-gazu-doskonałego.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/promienie Roentgena.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 571,
+      "exportedPath": "fizyka-2/zerówka/promienie-roentgena.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240410172941.png",
+        "lib/media/pasted-image-20240410173134.png",
+        "lib/media/pasted-image-20240410173154.png",
+        "lib/media/pasted-image-20240410173813.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/pryzmat.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 74,
+      "exportedPath": "fizyka-2/zerówka/pryzmat.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240321122602.png",
+        "lib/media/pasted-image-20240321122931.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/równanie Schroedingera.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 473,
+      "exportedPath": "fizyka-2/zerówka/równanie-schroedingera.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/równanie teorii kinet. molek..md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 167,
+      "exportedPath": "fizyka-2/zerówka/równanie-teorii-kinet.-molek..html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/rozkład prędkości Maxwella.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 110,
+      "exportedPath": "fizyka-2/zerówka/rozkład-prędkości-maxwella.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240610204432.png",
+        "lib/media/pasted-image-20240320175729.png",
+        "lib/media/pasted-image-20240320180142.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/soczewka.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 148,
+      "exportedPath": "fizyka-2/zerówka/soczewka.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240321123516.png",
+        "lib/media/pasted-image-20240321123659.png",
+        "lib/media/pasted-image-20240321124031.png",
+        "lib/media/pasted-image-20240321124035.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/temperatura i entropia statyst..md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 242,
+      "exportedPath": "fizyka-2/zerówka/temperatura-i-entropia-statyst..html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/współczynnik załamania.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 146,
+      "exportedPath": "fizyka-2/zerówka/współczynnik-załamania.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/wzór barometryczny.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 171,
+      "exportedPath": "fizyka-2/zerówka/wzór-barometryczny.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/zakaz Pauliego.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 120,
+      "exportedPath": "fizyka-2/zerówka/zakaz-pauliego.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240508184032.png",
+        "lib/media/pasted-image-20240508184035.png"
+      ]
+    },
+    "Fizyka 2/Zerówka/zasada ekwipartycji (Boltzmanna).md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 179,
+      "exportedPath": "fizyka-2/zerówka/zasada-ekwipartycji-(boltzmanna).html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/zasada Fermata.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 100,
+      "exportedPath": "fizyka-2/zerówka/zasada-fermata.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/zasada nieoznaczoności Heisenberga.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 744,
+      "exportedPath": "fizyka-2/zerówka/zasada-nieoznaczoności-heisenberga.html",
+      "dependencies": []
+    },
+    "Fizyka 2/Zerówka/zjawisko fotoelektryczne.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 811,
+      "exportedPath": "fizyka-2/zerówka/zjawisko-fotoelektryczne.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240327185100.png",
+        "lib/media/pasted-image-20240327185103.png",
+        "lib/media/pasted-image-20240327185351.png",
+        "lib/media/pasted-image-20240327185356.png",
+        "lib/media/pasted-image-20240327185443.png",
+        "lib/media/pasted-image-20240410171746.png",
+        "lib/media/pasted-image-20240410172138.png",
+        "lib/media/pasted-image-20240410172421.png",
+        "lib/media/pasted-image-20240410172548.png"
+      ]
+    },
+    "Fizyka 2/Wykład 14.md": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 5282,
+      "exportedPath": "fizyka-2/wykład-14.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240605173358.png",
+        "lib/media/pasted-image-20240605173430.png",
+        "lib/media/pasted-image-20240605173730.png",
+        "lib/media/pasted-image-20240605173850.png",
+        "lib/media/pasted-image-20240605173855.png",
+        "lib/media/pasted-image-20240605173901.png",
+        "lib/media/pasted-image-20240605174154.png",
+        "lib/media/pasted-image-20240605174606.png",
+        "lib/media/pasted-image-20240605174638.png",
+        "lib/media/pasted-image-20240605174959.png",
+        "lib/media/pasted-image-20240605175005.png",
+        "lib/media/pasted-image-20240605175147.png",
+        "lib/media/pasted-image-20240605175233.png",
+        "lib/media/pasted-image-20240605175503.png",
+        "lib/media/pasted-image-20240605175547.png",
+        "lib/media/pasted-image-20240605175801.png",
+        "lib/media/pasted-image-20240605175910.png",
+        "lib/media/pasted-image-20240605181623.png",
+        "lib/media/pasted-image-20240605181629.png",
+        "lib/media/pasted-image-20240605181632.png",
+        "lib/media/pasted-image-20240605181746.png",
+        "lib/media/pasted-image-20240605181929.png",
+        "lib/media/pasted-image-20240605182329.png",
+        "lib/media/pasted-image-20240605182338.png",
+        "lib/media/pasted-image-20240605182647.png",
+        "lib/media/pasted-image-20240605182651.png",
+        "lib/media/pasted-image-20240605182930.png",
+        "lib/media/pasted-image-20240605183024.png",
+        "lib/media/pasted-image-20240605183058.png",
+        "lib/media/pasted-image-20240605183438.png",
+        "lib/media/pasted-image-20240605183632.png",
+        "lib/media/pasted-image-20240605183710.png",
+        "lib/media/pasted-image-20240605184223.png",
+        "lib/media/pasted-image-20240605184429.png",
+        "lib/media/pasted-image-20240605184618.png",
+        "lib/media/pasted-image-20240605184725.png",
+        "lib/media/pasted-image-20240605184956.png",
+        "lib/media/pasted-image-20240605185102.png",
+        "lib/media/pasted-image-20240605185131.png",
+        "lib/media/pasted-image-20240605185244.png",
+        "lib/media/pasted-image-20240605185444.png",
+        "lib/media/pasted-image-20240605185548.png",
+        "lib/media/pasted-image-20240605185552.png",
+        "lib/media/pasted-image-20240605185600.png",
+        "lib/media/pasted-image-20240605185716.png",
+        "lib/media/pasted-image-20240605185834.png",
+        "lib/media/pasted-image-20240605185929.png",
+        "lib/media/pasted-image-20240605185944.png",
+        "lib/media/pasted-image-20240605185948.png",
+        "lib/media/pasted-image-20240605190116.png",
+        "lib/media/pasted-image-20240605190200.png",
+        "lib/media/pasted-image-20240605190218.png",
+        "lib/media/pasted-image-20240605190316.png",
+        "lib/media/pasted-image-20240605190327.png",
+        "lib/media/pasted-image-20240605190330.png",
+        "lib/media/pasted-image-20240605190413.png",
+        "lib/media/pasted-image-20240605190423.png",
+        "lib/media/pasted-image-20240605190427.png",
+        "lib/media/pasted-image-20240605190437.png"
+      ]
+    },
+    "lib/media/pasted-image-20240610204432.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 9874,
+      "exportedPath": "lib/media/pasted-image-20240610204432.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605173358.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 78184,
+      "exportedPath": "lib/media/pasted-image-20240605173358.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605173430.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 81342,
+      "exportedPath": "lib/media/pasted-image-20240605173430.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605173730.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 1206229,
+      "exportedPath": "lib/media/pasted-image-20240605173730.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605173850.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 2506330,
+      "exportedPath": "lib/media/pasted-image-20240605173850.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605173855.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 1291743,
+      "exportedPath": "lib/media/pasted-image-20240605173855.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605173901.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 452680,
+      "exportedPath": "lib/media/pasted-image-20240605173901.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605174154.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 214670,
+      "exportedPath": "lib/media/pasted-image-20240605174154.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605174606.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 288118,
+      "exportedPath": "lib/media/pasted-image-20240605174606.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605174638.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 68831,
+      "exportedPath": "lib/media/pasted-image-20240605174638.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605174959.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 94561,
+      "exportedPath": "lib/media/pasted-image-20240605174959.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605175005.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 37770,
+      "exportedPath": "lib/media/pasted-image-20240605175005.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605175147.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 129517,
+      "exportedPath": "lib/media/pasted-image-20240605175147.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605175233.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 508204,
+      "exportedPath": "lib/media/pasted-image-20240605175233.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605175503.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 1376490,
+      "exportedPath": "lib/media/pasted-image-20240605175503.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605175547.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 400326,
+      "exportedPath": "lib/media/pasted-image-20240605175547.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605175801.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 375387,
+      "exportedPath": "lib/media/pasted-image-20240605175801.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605175910.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 685346,
+      "exportedPath": "lib/media/pasted-image-20240605175910.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605181623.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 209442,
+      "exportedPath": "lib/media/pasted-image-20240605181623.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605181629.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 500677,
+      "exportedPath": "lib/media/pasted-image-20240605181629.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605181632.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 323458,
+      "exportedPath": "lib/media/pasted-image-20240605181632.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605181746.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 78437,
+      "exportedPath": "lib/media/pasted-image-20240605181746.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605181929.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 203287,
+      "exportedPath": "lib/media/pasted-image-20240605181929.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605182329.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 276740,
+      "exportedPath": "lib/media/pasted-image-20240605182329.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605182338.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 76748,
+      "exportedPath": "lib/media/pasted-image-20240605182338.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605182647.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 98179,
+      "exportedPath": "lib/media/pasted-image-20240605182647.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605182651.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 75363,
+      "exportedPath": "lib/media/pasted-image-20240605182651.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605182930.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 58974,
+      "exportedPath": "lib/media/pasted-image-20240605182930.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605183024.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 78638,
+      "exportedPath": "lib/media/pasted-image-20240605183024.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605183058.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 136531,
+      "exportedPath": "lib/media/pasted-image-20240605183058.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605183438.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 322451,
+      "exportedPath": "lib/media/pasted-image-20240605183438.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605183632.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 262753,
+      "exportedPath": "lib/media/pasted-image-20240605183632.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605183710.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 136410,
+      "exportedPath": "lib/media/pasted-image-20240605183710.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605184223.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 351419,
+      "exportedPath": "lib/media/pasted-image-20240605184223.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605184429.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 351419,
+      "exportedPath": "lib/media/pasted-image-20240605184429.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605184618.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 1178249,
+      "exportedPath": "lib/media/pasted-image-20240605184618.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605184725.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 618991,
+      "exportedPath": "lib/media/pasted-image-20240605184725.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605184956.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 928063,
+      "exportedPath": "lib/media/pasted-image-20240605184956.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185102.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 85514,
+      "exportedPath": "lib/media/pasted-image-20240605185102.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185131.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 84091,
+      "exportedPath": "lib/media/pasted-image-20240605185131.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185244.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 292482,
+      "exportedPath": "lib/media/pasted-image-20240605185244.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185444.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 106289,
+      "exportedPath": "lib/media/pasted-image-20240605185444.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185548.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 283348,
+      "exportedPath": "lib/media/pasted-image-20240605185548.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185552.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 123348,
+      "exportedPath": "lib/media/pasted-image-20240605185552.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185600.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 281197,
+      "exportedPath": "lib/media/pasted-image-20240605185600.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185716.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 100461,
+      "exportedPath": "lib/media/pasted-image-20240605185716.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185834.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 159789,
+      "exportedPath": "lib/media/pasted-image-20240605185834.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185929.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 112123,
+      "exportedPath": "lib/media/pasted-image-20240605185929.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185944.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 110469,
+      "exportedPath": "lib/media/pasted-image-20240605185944.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605185948.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 857251,
+      "exportedPath": "lib/media/pasted-image-20240605185948.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605190116.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 772860,
+      "exportedPath": "lib/media/pasted-image-20240605190116.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605190200.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 725429,
+      "exportedPath": "lib/media/pasted-image-20240605190200.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605190218.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 451972,
+      "exportedPath": "lib/media/pasted-image-20240605190218.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605190316.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 197135,
+      "exportedPath": "lib/media/pasted-image-20240605190316.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605190327.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 968544,
+      "exportedPath": "lib/media/pasted-image-20240605190327.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605190330.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 699822,
+      "exportedPath": "lib/media/pasted-image-20240605190330.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605190413.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 2578738,
+      "exportedPath": "lib/media/pasted-image-20240605190413.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605190423.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 2789697,
+      "exportedPath": "lib/media/pasted-image-20240605190423.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605190427.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 510605,
+      "exportedPath": "lib/media/pasted-image-20240605190427.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240605190437.png": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 1216600,
+      "exportedPath": "lib/media/pasted-image-20240605190437.png",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1718192649044,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     }
   }
