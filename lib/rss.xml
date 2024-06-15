@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Term6]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Term6</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 12 Jun 2024 11:44:19 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 12 Jun 2024 11:44:09 GMT</pubDate><copyright><![CDATA[Marek Mytkowski]]></copyright><ttl>60</ttl><dc:creator>Marek Mytkowski</dc:creator><item><title><![CDATA[! Zagadnienia]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Term6]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Term6</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 15 Jun 2024 22:24:03 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 15 Jun 2024 22:23:22 GMT</pubDate><copyright><![CDATA[Marek Mytkowski]]></copyright><ttl>60</ttl><dc:creator>Marek Mytkowski</dc:creator><item><title><![CDATA[! Zagadnienia]]></title><description><![CDATA[ 
  <br><br><a data-href="pierwsza zasada termodynamiki" href="fizyka-2/zerówka/pierwsza-zasada-termodynamiki.html" class="internal-link" target="_self" rel="noopener">pierwsza zasada termodynamiki</a><br>
 <a data-href="procesy gazu doskonałego" href="fizyka-2/zerówka/procesy-gazu-doskonałego.html" class="internal-link" target="_self" rel="noopener">procesy gazu doskonałego</a><br>
 <a data-href="cykl Carnota" href="fizyka-2/zerówka/cykl-carnota.html" class="internal-link" target="_self" rel="noopener">cykl Carnota</a><br>
@@ -34,11 +34,11 @@ rozszczepienie i reakcja syntezy]]></description><link>fizyka-2/zerówka/!-zagad
  <br>To cykl termodynamiczny o największej możliwej sprawniści przy zadanej temperaturze chłodnicy i grzejnika. Składa się z dwóch izoterm i dwóch adiabat, przemiennie ułożonych w kolejności.<br><br>dla Carnota (bo ):<br>]]></description><link>fizyka-2/zerówka/cykl-carnota.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/cykl Carnota.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 18:00:41 GMT</pubDate></item><item><title><![CDATA[doświadczenie Franka-Hertza]]></title><description><![CDATA[ 
  <br><img alt="Pasted image 20240410184929.png" src="lib/media/pasted-image-20240410184929.png"><br>
 <img alt="Pasted image 20240410185059.png" src="lib/media/pasted-image-20240410185059.png"><br>
-<img alt="Pasted image 20240410185102.png" src="lib/media/pasted-image-20240410185102.png">]]></description><link>fizyka-2/zerówka/doświadczenie-franka-hertza.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/doświadczenie Franka-Hertza.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 21:08:01 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410184929.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240410184929.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[doświadczenie Ratherforda]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240410185102.png" src="lib/media/pasted-image-20240410185102.png">]]></description><link>fizyka-2/zerówka/doświadczenie-franka-hertza.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/doświadczenie Franka-Hertza.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 21:08:01 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410184929.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240410184929.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[doświadczenie Ratherforda]]></title><description><![CDATA[ 
  <br>Strzelanie cząstkami alfa w folie ze złota. Czasami cząstka odbijała się w losowym kierunku. Stąd wniosek, że atom to nie może być ciasto z ładunkiem dodatnim, a bardzo małe jądro, tak, że materia jest bardzo rzadka.<br>
 <img alt="Pasted image 20240410182334.png" src="lib/media/pasted-image-20240410182334.png"><br>
 <img alt="Pasted image 20240410183159.png" src="lib/media/pasted-image-20240410183159.png"><br>
-<img alt="Pasted image 20240410183233.png" src="lib/media/pasted-image-20240410183233.png">]]></description><link>fizyka-2/zerówka/doświadczenie-ratherforda.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/doświadczenie Ratherforda.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 21:00:22 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410182334.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240410182334.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[druga zasada termodynamiki]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240410183233.png" src="lib/media/pasted-image-20240410183233.png">]]></description><link>fizyka-2/zerówka/doświadczenie-ratherforda.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/doświadczenie Ratherforda.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 21:00:22 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410182334.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240410182334.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[druga zasada termodynamiki]]></title><description><![CDATA[ 
  <br>Niemożliwy jest proces w którym bez pracy nad układem ciepło przemieści się&nbsp;z ciała zimniejszego do cieplejszego.<br>Niemożliwy jest proces w którym całe ciepło zostanie zamienione na pracę.]]></description><link>fizyka-2/zerówka/druga-zasada-termodynamiki.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/druga zasada termodynamiki.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 18:04:44 GMT</pubDate></item><item><title><![CDATA[dyfrakcja Fresnela]]></title><description><![CDATA[ 
  <br><img alt="Pasted image 20240327173701.png" src="lib/media/pasted-image-20240327173701.png"><br>
 <img alt="Pasted image 20240327173704.png" src="lib/media/pasted-image-20240327173704.png"><br>
@@ -47,21 +47,21 @@ rozszczepienie i reakcja syntezy]]></description><link>fizyka-2/zerówka/!-zagad
 <img alt="Pasted image 20240327174828.png" src="lib/media/pasted-image-20240327174828.png"><br>
 <img alt="Pasted image 20240327174923.png" src="lib/media/pasted-image-20240327174923.png"><br>
 <img alt="Pasted image 20240327175017.png" src="lib/media/pasted-image-20240327175017.png"><br>
-<img alt="Pasted image 20240327175505.png" src="lib/media/pasted-image-20240327175505.png">]]></description><link>fizyka-2/zerówka/dyfrakcja-fresnela.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/dyfrakcja Fresnela.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:13:48 GMT</pubDate><enclosure url="lib/media/pasted-image-20240327173701.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240327173701.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[efekt Comptona]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240327175505.png" src="lib/media/pasted-image-20240327175505.png">]]></description><link>fizyka-2/zerówka/dyfrakcja-fresnela.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/dyfrakcja Fresnela.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:13:48 GMT</pubDate><enclosure url="lib/media/pasted-image-20240327173701.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240327173701.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[efekt Comptona]]></title><description><![CDATA[ 
  <br><img alt="Pasted image 20240410173936.png" src="lib/media/pasted-image-20240410173936.png"><br>
-<img alt="Pasted image 20240410174318.png" src="lib/media/pasted-image-20240410174318.png"><br><br>]]></description><link>fizyka-2/zerówka/efekt-comptona.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/efekt Comptona.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:43:13 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410173936.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240410173936.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[efekt Dopplera]]></title><description><![CDATA[ 
- <br>efekt dopplera jest związany z poruszającym się źródłem fali. Jego poruszanie się względem obserwatora powoduje zmianę częstotliwości fali, np. dźwiękowej gdy mija nas rozpędzona karetka.<br>v to jest prędkość źródła względem obserwatora.<br><br><img alt="Pasted image 20240327183135.png" src="lib/media/pasted-image-20240327183135.png">]]></description><link>fizyka-2/zerówka/efekt-dopplera.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/efekt Dopplera.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:25:28 GMT</pubDate><enclosure url="lib/media/pasted-image-20240327183135.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240327183135.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[entropia]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240410174318.png" src="lib/media/pasted-image-20240410174318.png"><br><br>]]></description><link>fizyka-2/zerówka/efekt-comptona.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/efekt Comptona.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:43:13 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410173936.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240410173936.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[efekt Dopplera]]></title><description><![CDATA[ 
+ <br>efekt dopplera jest związany z poruszającym się źródłem fali. Jego poruszanie się względem obserwatora powoduje zmianę częstotliwości fali, np. dźwiękowej gdy mija nas rozpędzona karetka.<br>v to jest prędkość źródła względem obserwatora.<br><br><img alt="Pasted image 20240327183135.png" src="lib/media/pasted-image-20240327183135.png">]]></description><link>fizyka-2/zerówka/efekt-dopplera.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/efekt Dopplera.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:25:28 GMT</pubDate><enclosure url="lib/media/pasted-image-20240327183135.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240327183135.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[entropia]]></title><description><![CDATA[ 
  <br>Nazywana miarą nieuporządkowania (nie do końca poprawnie). To ona dyktuje co jest przyszłością i co jest przeszłościa. Życie to obniżanie entropii kosztem otoczenia.<br><br><br>W procesach nieodwracalnych entropia rośnie.<br>
 W odwracalnych i adiabatycznych zmiana entropii jest równa zero<br>Jest addytywna!<br><img alt="Pasted image 20240306173153.png" src="lib/media/pasted-image-20240306173153.png"><br>
-Widać, że cykl Carnota ma maksymalną sprawność.]]></description><link>fizyka-2/zerówka/entropia.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/entropia.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 18:19:44 GMT</pubDate><enclosure url="lib/media/pasted-image-20240306173153.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240306173153.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[fale de Broglie'a]]></title><description><![CDATA[ 
+Widać, że cykl Carnota ma maksymalną sprawność.]]></description><link>fizyka-2/zerówka/entropia.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/entropia.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 18:19:44 GMT</pubDate><enclosure url="lib/media/pasted-image-20240306173153.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240306173153.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[fale de Broglie'a]]></title><description><![CDATA[ 
  <br><br>Wszystko jest jednocześnie falą i cząstką!<br><br>Ale <br>
 <img alt="Pasted image 20240410174520.png" src="lib/media/pasted-image-20240410174520.png"><br>
 z tego powodu nie obserwujemy interferencji piłek tenisowych, a elektronu już możemy.<br>
-<img alt="Pasted image 20240410175007.png" src="lib/media/pasted-image-20240410175007.png">]]></description><link>fizyka-2/zerówka/fale-de-broglie'a.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/fale de Broglie'a.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:47:57 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410174520.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240410174520.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[interferencja]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240410175007.png" src="lib/media/pasted-image-20240410175007.png">]]></description><link>fizyka-2/zerówka/fale-de-broglie&apos;a.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/fale de Broglie&apos;a.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:47:57 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410174520.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240410174520.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[interferencja]]></title><description><![CDATA[ 
  <br><br><img alt="Pasted image 20240321130438.png" src="lib/media/pasted-image-20240321130438.png"><br>
 <img alt="Pasted image 20240321131007.png" src="lib/media/pasted-image-20240321131007.png"><br>
 Wszystkie punkty czoła fali zachowują się jak punktowe źródła fali kulistej, ich interferencja daje fale płaską. Z tego wiadomo, że jeśli fala płaska przejdzie przez mały otwór to ten otwór będzie źródłem nowej fali kulistej.<br>
-<img alt="Pasted image 20240321131305.png" src="lib/media/pasted-image-20240321131305.png"> <br><br>Jeśli dwie fale o takiej samej długości i takiego samego typu nakładają się na siebie i tworzą falę wzmocnioną lub osłabioną to zachodzi interferencja.<br><br><img alt="Pasted image 20240321132101.png" src="lib/media/pasted-image-20240321132101.png">]]></description><link>fizyka-2/zerówka/interferencja.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/interferencja.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:11:13 GMT</pubDate><enclosure url="lib/media/pasted-image-20240321130438.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240321130438.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[liczby kwantowe wodoru]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240321131305.png" src="lib/media/pasted-image-20240321131305.png"> <br><br>Jeśli dwie fale o takiej samej długości i takiego samego typu nakładają się na siebie i tworzą falę wzmocnioną lub osłabioną to zachodzi interferencja.<br><br><img alt="Pasted image 20240321132101.png" src="lib/media/pasted-image-20240321132101.png">]]></description><link>fizyka-2/zerówka/interferencja.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/interferencja.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:11:13 GMT</pubDate><enclosure url="lib/media/pasted-image-20240321130438.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240321130438.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[liczby kwantowe wodoru]]></title><description><![CDATA[ 
  ]]></description><link>fizyka-2/zerówka/liczby-kwantowe-wodoru.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/liczby kwantowe wodoru.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 21:35:29 GMT</pubDate></item><item><title><![CDATA[model Bohra atomu]]></title><description><![CDATA[ 
  <br>Elektron krąży wokół jądra w wyniku równoważenia się siły odśrodkowej i Coulomba!<br>
 Dość dobre przybliżenie dla atomu Wodoru, dla innych nie.<br><br><img alt="Pasted image 20240410183605.png" src="lib/media/pasted-image-20240410183605.png"><br>
@@ -69,7 +69,7 @@ Dość dobre przybliżenie dla atomu Wodoru, dla innych nie.<br><br><img alt="Pa
 <img alt="Pasted image 20240410183644.png" src="lib/media/pasted-image-20240410183644.png"><br>
 <img alt="Pasted image 20240410183650.png" src="lib/media/pasted-image-20240410183650.png"><br>
 <img alt="Pasted image 20240410184215.png" src="lib/media/pasted-image-20240410184215.png"><br>
-<img alt="Pasted image 20240410184556.png" src="lib/media/pasted-image-20240410184556.png">]]></description><link>fizyka-2/zerówka/model-bohra-atomu.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/model Bohra atomu.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 21:06:20 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410183605.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240410183605.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[pierwsza zasada termodynamiki]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240410184556.png" src="lib/media/pasted-image-20240410184556.png">]]></description><link>fizyka-2/zerówka/model-bohra-atomu.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/model Bohra atomu.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 21:06:20 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410183605.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240410183605.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[pierwsza zasada termodynamiki]]></title><description><![CDATA[ 
  <br>pierwsza zasada termodynamiki mówi, że zmiana energii w procesie termodynamicznym może przebiec przez dodanie/odprowadzenie ciepła do układu lub przez pracę wykonaną przez układ/wykonaną z zewnątrz nad układem<br><br><br>Gdzie:<br>
  - ciepło dostarczone do układu<br>
  - praca wykonana przez układ na otoczeniu<br>małe delty to infinitezymalnie małe punkty czasu, zależą od przemiany, bez delt to zależy od stanu parametrów układu na pocz. i na końcu przemiany - nie ma znaczenia jak przebiega.<br> - nie zależy od drogi!<br>
@@ -83,7 +83,7 @@ Pole pod wykresem we współrzędnych p i V =&gt; Praca!!!
 <img alt="Pasted image 20240327182202.png" src="lib/media/pasted-image-20240327182202.png"><br>
 <img alt="Pasted image 20240327182206.png" src="lib/media/pasted-image-20240327182206.png"><br>
 <img alt="Pasted image 20240327182409.png" src="lib/media/pasted-image-20240327182409.png"><br>
-!]]></description><link>fizyka-2/zerówka/polaryzacja-światła.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/polaryzacja światła.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:22:30 GMT</pubDate><enclosure url="lib/media/pasted-image-20240327175752.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240327175752.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[procesy gazu doskonałego]]></title><description><![CDATA[ 
+!]]></description><link>fizyka-2/zerówka/polaryzacja-światła.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/polaryzacja światła.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:22:30 GMT</pubDate><enclosure url="lib/media/pasted-image-20240327175752.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240327175752.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[procesy gazu doskonałego]]></title><description><![CDATA[ 
  <br>Gaz doskonały jest konceptem idealnym nie występującym w rzeczywistym świecie, natomiast z bardzo dobrym przybliżeniem możemy za niego uznać mocno rozrzedzony gaz.<br><br>
 <br>cząstki gazu traktujemy jako punkty materialne i są identyczne w całym gazie
 <br>objętość cząstek gazu musi być dużo mniejsza niż objętość otoczenia
@@ -106,9 +106,9 @@ Bardziej strome na p(V) niż izoterma<br><br><br>ciepło właściwe zachowuje st
 <img alt="Pasted image 20240410173154.png" src="lib/media/pasted-image-20240410173154.png"><br>
 Zasada zachowania pedu i energii jednocześnie muszą być spełnione, pędu bo jądro jest odrzucane, energii bo emituje się promieniowanie rentgenowskie.<br>
 Interferencja i dyfrakcja zachodzi, przerwa jest rzędu długości fali. Okazało się, że długość fali fal rentgenowskich jest rzędu nanometrów - wielkości atomu. Takim przyrządem, który służył do dyfrakcji był kryształ - ma przerwy wielkości atomu.<br>
-<img alt="Pasted image 20240410173813.png" src="lib/media/pasted-image-20240410173813.png">]]></description><link>fizyka-2/zerówka/promienie-roentgena.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/promienie Roentgena.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:40:35 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410172941.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240410172941.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[pryzmat]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240410173813.png" src="lib/media/pasted-image-20240410173813.png">]]></description><link>fizyka-2/zerówka/promienie-roentgena.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/promienie Roentgena.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:40:35 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410172941.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240410172941.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[pryzmat]]></title><description><![CDATA[ 
  <br><img alt="Pasted image 20240321122602.png" src="lib/media/pasted-image-20240321122602.png"><br>
-<img alt="Pasted image 20240321122931.png" src="lib/media/pasted-image-20240321122931.png">]]></description><link>fizyka-2/zerówka/pryzmat.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/pryzmat.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:03:52 GMT</pubDate><enclosure url="lib/media/pasted-image-20240321122602.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240321122602.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[równanie Schroedingera]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240321122931.png" src="lib/media/pasted-image-20240321122931.png">]]></description><link>fizyka-2/zerówka/pryzmat.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/pryzmat.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:03:52 GMT</pubDate><enclosure url="lib/media/pasted-image-20240321122602.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240321122602.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[równanie Schroedingera]]></title><description><![CDATA[ 
  <br>Mały kwantowy wstęp:<br><br>para rozwiązań:<br>
 <br>jedno z dozwolonych  - wartości własnych
 <br>odpowiadające mu  - funkcja własna
@@ -117,11 +117,11 @@ Interferencja i dyfrakcja zachodzi, przerwa jest rzędu długości fali. Okazał
  <br>Średnia energia kinetyczna cząstek w ruchu postępowym.<br><br><br>]]></description><link>fizyka-2/zerówka/równanie-teorii-kinet.-molek..html</link><guid isPermaLink="false">Fizyka 2/Zerówka/równanie teorii kinet. molek..md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 18:28:36 GMT</pubDate></item><item><title><![CDATA[rozkład prędkości Maxwella]]></title><description><![CDATA[ 
  <br><img alt="Pasted image 20240610204432.png" src="lib/media/pasted-image-20240610204432.png"><br>
 <img alt="Pasted image 20240320175729.png" src="lib/media/pasted-image-20240320175729.png"><br>
-<img alt="Pasted image 20240320180142.png" src="lib/media/pasted-image-20240320180142.png">]]></description><link>fizyka-2/zerówka/rozkład-prędkości-maxwella.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/rozkład prędkości Maxwella.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 18:45:30 GMT</pubDate><enclosure url="lib/media/pasted-image-20240610204432.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240610204432.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[soczewka]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240320180142.png" src="lib/media/pasted-image-20240320180142.png">]]></description><link>fizyka-2/zerówka/rozkład-prędkości-maxwella.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/rozkład prędkości Maxwella.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 18:45:30 GMT</pubDate><enclosure url="lib/media/pasted-image-20240610204432.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240610204432.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[soczewka]]></title><description><![CDATA[ 
  <br><img alt="Pasted image 20240321123516.png" src="lib/media/pasted-image-20240321123516.png"><br>
 <img alt="Pasted image 20240321123659.png" src="lib/media/pasted-image-20240321123659.png"><br>
 <img alt="Pasted image 20240321124031.png" src="lib/media/pasted-image-20240321124031.png"><br>
-<img alt="Pasted image 20240321124035.png" src="lib/media/pasted-image-20240321124035.png">]]></description><link>fizyka-2/zerówka/soczewka.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/soczewka.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:04:26 GMT</pubDate><enclosure url="lib/media/pasted-image-20240321123516.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240321123516.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[temperatura i entropia statyst.]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240321124035.png" src="lib/media/pasted-image-20240321124035.png">]]></description><link>fizyka-2/zerówka/soczewka.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/soczewka.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:04:26 GMT</pubDate><enclosure url="lib/media/pasted-image-20240321123516.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240321123516.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[temperatura i entropia statyst.]]></title><description><![CDATA[ 
  <br><br><br>Gdzie  to zbiór wszystkich przypadków możliwych statystycznie, jeśli jest ich więcej w układzie gdzie tych prawidłowych przypadków jest cały czas tyle samo to entropia rośnie.]]></description><link>fizyka-2/zerówka/temperatura-i-entropia-statyst..html</link><guid isPermaLink="false">Fizyka 2/Zerówka/temperatura i entropia statyst..md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 18:38:26 GMT</pubDate></item><item><title><![CDATA[współczynnik załamania]]></title><description><![CDATA[ 
  <br><br><br><br>kąt załamania na granicy ośrodków przy przejściu z n_1 =&gt; n_2]]></description><link>fizyka-2/zerówka/współczynnik-załamania.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/współczynnik załamania.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 19:23:35 GMT</pubDate></item><item><title><![CDATA[wzór barometryczny]]></title><description><![CDATA[ 
  <br>Ciśnienie atmosferyczne to ciśnienie słupa gazu powietrza ponad punktem który jest układem. Czym niżej tym większe.<br>]]></description><link>fizyka-2/zerówka/wzór-barometryczny.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/wzór barometryczny.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 18:32:08 GMT</pubDate></item><item><title><![CDATA[zakaz Pauliego]]></title><description><![CDATA[ 
@@ -131,7 +131,7 @@ Interferencja i dyfrakcja zachodzi, przerwa jest rzędu długości fali. Okazał
 8<br>
 18<br>
 32<br>
-Tak jak wynika z mechaniki kwantowej]]></description><link>fizyka-2/zerówka/zakaz-pauliego.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/zakaz Pauliego.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 21:34:48 GMT</pubDate><enclosure url="lib/media/pasted-image-20240508184032.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240508184032.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[zasada ekwipartycji (Boltzmanna)]]></title><description><![CDATA[ 
+Tak jak wynika z mechaniki kwantowej]]></description><link>fizyka-2/zerówka/zakaz-pauliego.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/zakaz Pauliego.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 21:34:48 GMT</pubDate><enclosure url="lib/media/pasted-image-20240508184032.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240508184032.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[zasada ekwipartycji (Boltzmanna)]]></title><description><![CDATA[ 
  <br>Dla każdego stopnia swobody <br>
 więc jeśli mamy n stopni swobody to:<br><br>]]></description><link>fizyka-2/zerówka/zasada-ekwipartycji-(boltzmanna).html</link><guid isPermaLink="false">Fizyka 2/Zerówka/zasada ekwipartycji (Boltzmanna).md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 18:40:01 GMT</pubDate></item><item><title><![CDATA[zasada Fermata]]></title><description><![CDATA[ 
  <br>Światło biegnie po takiej drodze, którą będzie miało ekstremalny czas (na ogół najmniejszy)!]]></description><link>fizyka-2/zerówka/zasada-fermata.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/zasada Fermata.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 19:21:09 GMT</pubDate></item><item><title><![CDATA[zasada nieoznaczoności Heisenberga]]></title><description><![CDATA[ 
@@ -147,7 +147,328 @@ więc jeśli mamy n stopni swobody to:<br><br>]]></description><link>fizyka-2/ze
 <img alt="Pasted image 20240410172138.png" src="lib/media/pasted-image-20240410172138.png"><br>
 Uwaga, stała Plancka powstała na podstawie wyznaczania promieniowania ciała doskonale czarnego, a w doświadczeniu Millikana jest to dosłownie tg kąta funkcji liniowej napęcia hamowania.<br>
 <img alt="Pasted image 20240410172421.png" src="lib/media/pasted-image-20240410172421.png"><br>
-<img alt="Pasted image 20240410172548.png" src="lib/media/pasted-image-20240410172548.png">]]></description><link>fizyka-2/zerówka/zjawisko-fotoelektryczne.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/zjawisko fotoelektryczne.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:36:42 GMT</pubDate><enclosure url="lib/media/pasted-image-20240327185100.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240327185100.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 8]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240410172548.png" src="lib/media/pasted-image-20240410172548.png">]]></description><link>fizyka-2/zerówka/zjawisko-fotoelektryczne.html</link><guid isPermaLink="false">Fizyka 2/Zerówka/zjawisko fotoelektryczne.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:36:42 GMT</pubDate><enclosure url="lib/media/pasted-image-20240327185100.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240327185100.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Laby pomiary]]></title><description><![CDATA[ 
+ <br>błąd - niemierzalna wartość, różnica między realną wartością badanego parametru a zmierzoną przez nas wartością.<br>
+niepewność - mierzalna wartość, mówiąca o dokładności naszego pomiaru<br>
+błąd gruby - pomyłka przy badaniu, wartość bardzo mocno odstająca od całej reszty.<br>Niepewność standardowa  to zazwyczaj odchylenie standardowe. Niepewności dzielimy na dwa typy:<br>
+<br>typ A - niepewności związane ze statystyką wyników, np. odchylenie standardowe średniej
+<br>typ B - wszystkie inne niepewności związane z danym badaniem, np. dokładność urządzenia pomiarowego.
+]]></description><link>fizyka-2/laby-pomiary.html</link><guid isPermaLink="false">Fizyka 2/Laby pomiary.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 04 Mar 2024 12:48:01 GMT</pubDate></item><item><title><![CDATA[Wykład 1]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20240221172339.png" src="lib/media/pasted-image-20240221172339.png"><br>
+Ciepło, temperatura<br>
+<img alt="Pasted image 20240221172444.png" src="lib/media/pasted-image-20240221172444.png"><br>
+!!!!<br>
+<img alt="Pasted image 20240221172644.png" src="lib/media/pasted-image-20240221172644.png"><br>
+Lodówka zużywa dużo elektryczności.<br>
+Utrzymywanie niezerowej różnicy temperatur jest trudne.<br>
+To coś z aco musimy zapłacić<br>
+Termodynamika ma nam wyjaśnić dlaczego tak jest, dlaczego musimy za to zapłacić by utrzymać różnicę temperatur<br>
+Podobnie z klimatyzacją i pompą ciepła, to wszystko wymaga pracy - wysiłku.<br>
+<img alt="Pasted image 20240221173147.png" src="lib/media/pasted-image-20240221173147.png"><br>
+Zamiana ciepła na pracę mechaniczną - silnik<br>
+To druga klasa urządzeń, których działanie opisuje termodynamika.<br>
+<img alt="Pasted image 20240221173329.png" src="lib/media/pasted-image-20240221173329.png"><br>
+Silniki parowe okazały się niezwykle przydatne -&gt; zarobas.<br>
+Termodynamika z tego powodu była bardzo potrzebna w czasach kiedy silniki się rozwijały, potrzebny był aparat pojęciowy.<br>
+Rozwineliśmy się:<br>
+<img alt="Pasted image 20240221173730.png" src="lib/media/pasted-image-20240221173730.png"><br>
+Trochę udało się&nbsp;ulepszyć silnik, ale nie jakoś bardzo.<br>
+<img alt="Pasted image 20240221173818.png" src="lib/media/pasted-image-20240221173818.png"><br>
+Nadal używamy takich silników, ale teraz nie są one używane do zyskania pracy mechanicznej. Turbina, która się obraca generuje energię&nbsp;elektryczną, podobnie przez reakcję jądrową.<br>
+<img alt="Pasted image 20240221174011.png" src="lib/media/pasted-image-20240221174011.png"><br>
+To wszystko powody, czemu termodynamika powstała.<br>
+<img alt="Pasted image 20240221174136.png" src="lib/media/pasted-image-20240221174136.png"><br>
+Definiujemy nowe pojęcia.<br>
+Fenomenologiczna - zaczynamy od tego, że zbieramy sobie wyniki eksperymentalne, a później znajdujemy w nich prawidłowości. Ale na razie nie staramy się ich wytłumaczyć (ang. phenomenon - zjawisko).<br>
+Ograniczamy się do własności ciał makroskopowych.<br>
+<img alt="Pasted image 20240221174500.png" src="lib/media/pasted-image-20240221174500.png"><br>
+Układ termodynamiczny, można go różnie zdefiniować.<br>
+Np. podgrzewany garnek z wodą, ma wiele układów termodynamicznych, np. woda, para albo woda, para, palnik a może sama woda.<br>
+Teraz zastanówmy się które parametry eksperymentów rzeczywiście mają&nbsp;znaczenie.<br>
+Są to parametry stanu.<br>
+Do stanu równowagowego układ będzie dążył sam z siebie, jeśli nic nie będziemy z nim robić. Np. gorąca herbata w kubku - skończy tracić temperaturę, jeśli osiągnie temperaturę otoczenia.<br>
+<img alt="Pasted image 20240221175209.png" src="lib/media/pasted-image-20240221175209.png"><br>
+Stan stacjonarny<br>
+Kawałek metalu między grzejnikiem a chłodnicą, metal ma różną temperaturę w różnych częściach, nie ma ustalonej temperatury stan związany z kawałkiem metalu, ale rozkład nie zmienia się w czasie, czyli jest to stan stacjonarny.<br>
+Proces termodynamiczny - gdy układ przechodzi między stanami układu.<br>
+<img alt="Pasted image 20240221175506.png" src="lib/media/pasted-image-20240221175506.png"><br>
+ciśnienie, objętość, temperatura - te rzeczy są parametrami stanu.<br>
+Jeśli wartość któregoś parametru się zmieni, to zachodzi proces termodynamiczny.<br>
+<img alt="Pasted image 20240221175732.png" src="lib/media/pasted-image-20240221175732.png"><br>
+Istnieje równanie wiążące parametry stanu, tylko na jednej powierzchni 3d, mogą być stany. Wystarczy nam punkt na dwuwymiarowej przestrzeni, resztę mamy za darmo.<br>
+Funkcja termodynamiczna, jest funkcją parametru stanu mającą konkretną wartość dla układu stanu.<br>
+<img alt="Pasted image 20240221180014.png" src="lib/media/pasted-image-20240221180014.png"><br>
+Kwazistatyczna - wolna<br>
+<img alt="Pasted image 20240222181816.png" src="lib/media/pasted-image-20240222181816.png"><br>
+Przechodniość pozwala nam na to by termometry istniały, to bardzo ważne!<br>
+<img alt="Pasted image 20240222181951.png" src="lib/media/pasted-image-20240222181951.png"><br>
+<img alt="Pasted image 20240222182009.png" src="lib/media/pasted-image-20240222182009.png"><br>
+Skala Celsjusza ma dwa punkty szczególne, 0 stopni jako temperatura graniczna zamarzania wody i 100 stopni jako temperatura wrzenia wody. Na tej podstawie powstała ta skala. Farenheity odnoszą się do odczuwalnej temperatury przez człowieka (trochę dziwne ale ok). Za to Kelviny powstały po odkryciach czym właściwie jest temperatura, gdyż faktycznie ona nie może by ujemna. Zero bezwzględne to stan gdy cząsteczki nie poruszają się - nie ma temperatury. Jest to prawdziwe 0, niżej być nie może, ale zachowano jednocześnie 1K = 1 stopień Celsjusza.<br>
+Zero bezwzględne,&nbsp;zero absolutne –&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Temperatura" rel="noopener" class="external-link" title="Temperatura" href="https://pl.wikipedia.org/wiki/Temperatura" target="_blank">temperatura</a>&nbsp;równa zero w&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Termodynamika" rel="noopener" class="external-link" title="Termodynamika" href="https://pl.wikipedia.org/wiki/Termodynamika" target="_blank">termodynamicznej skali temperatur</a>, czyli jest to temperatura, w której wszystkie elementy&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Uk%C5%82ad_termodynamiczny" rel="noopener" class="external-link" title="Układ termodynamiczny" href="https://pl.wikipedia.org/wiki/Uk%C5%82ad_termodynamiczny" target="_blank">układu termodynamicznego</a>&nbsp;uzyskują najniższą z możliwych&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Energia_(fizyka)" rel="noopener" class="external-link" title="Energia (fizyka)" href="https://pl.wikipedia.org/wiki/Energia_(fizyka)" target="_blank">energii</a>. Temperatura ta odpowiada −273,15&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Skala_Celsjusza" rel="noopener" class="external-link" title="Skala Celsjusza" href="https://pl.wikipedia.org/wiki/Skala_Celsjusza" target="_blank">°C</a>&nbsp;=&nbsp;0&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Kelwin" rel="noopener" class="external-link" title="Kelwin" href="https://pl.wikipedia.org/wiki/Kelwin" target="_blank">K</a>.
+<br><img alt="Pasted image 20240222182426.png" src="lib/media/pasted-image-20240222182426.png"><br>
+<img alt="Pasted image 20240222182438.png" src="lib/media/pasted-image-20240222182438.png"><br>
+<img alt="Pasted image 20240222182452.png" src="lib/media/pasted-image-20240222182452.png"><br>
+W kosmosie panuje przyjemne ok. 2K temperatura.<br>
+<img alt="Pasted image 20240222182511.png" src="lib/media/pasted-image-20240222182511.png"><br>
+[Równanie Clapeyrona]<br>
+<br>
+<img alt="Pasted image 20240222182728.png" src="lib/media/pasted-image-20240222182728.png"><br>
+<img alt="Pasted image 20240222182736.png" src="lib/media/pasted-image-20240222182736.png"><br>
+Oczywiście mimo, że siła będzie różna to praca będzie równa (siła razy przemieszczenie), to znaczy, że duża platforma podniesie się o mniejszą wysokość niż mała platforma.<br>
+<img alt="Pasted image 20240222182826.png" src="lib/media/pasted-image-20240222182826.png"><br>
+W nowoczesnych autach jest już trochę inaczej.<br>
+<img alt="Pasted image 20240222182839.png" src="lib/media/pasted-image-20240222182839.png"><br>
+<img alt="Pasted image 20240222182856.png" src="lib/media/pasted-image-20240222182856.png"><br>
+Pokazanie, że energia mechaniczna zostaje przemieniona na ciepło (może pascal? idk). Bloczek spada, kręci kołowrotkiem, ciecz się miesza. Łatwo policzyć energię potencjalną, którą stracił bloczek, okazuje się,&nbsp;że temperatura zmieniła się o tyle ile energii stracił bloczek.<br>
+<img alt="Pasted image 20240222183027.png" src="lib/media/pasted-image-20240222183027.png"><br>
+Rzeczywiście, tak na prawdę aktualna energia wewnętrzna U układu przy procesach termodynamicznych nie jest istotna. Interesuje nas jego zmiana . Uwaga na W i Q.<br>
+<img alt="Pasted image 20240222183340.png" src="lib/media/pasted-image-20240222183340.png"><br>
+Ciśnienie . Zauważmy, że skoro praca wykonana nad układem jest całką, to jest to pole pod wykresem, różnych procesów, i ADC, będzie najbardziej optymalna pod kątem pracy. Natomiast energia wewnętrzna w A i C jest stała, i nie zależy od procesu, którego użyjemy.<br>
+<img alt="Pasted image 20240222183651.png" src="lib/media/pasted-image-20240222183651.png"><br>
+Uwaga na różnicę między  i . To czemu  jest przez układ, a  do układu jest umową opartą na tym jak to przebiega w silniku. Jest intuicyjna.<br>
+<img alt="Pasted image 20240222183908.png" src="lib/media/pasted-image-20240222183908.png">]]></description><link>fizyka-2/wykład-1.html</link><guid isPermaLink="false">Fizyka 2/Wykład 1.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 03 Jun 2024 19:44:58 GMT</pubDate><enclosure url="lib/media/pasted-image-20240221172339.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240221172339.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 2]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20240228171754.png" src="lib/media/pasted-image-20240228171754.png"><br>
+Moglibyśmy wybrać inne dwie zmienne niż p i v, ale jest to podyktowane tym, że przy takim wyborze pole pod wykresem jest pracą (całka). Ciepło nie ma prostej interpretacji, ale możemy znając pracę, użyć wzoru. W przypadku 6 dopóki cofamy v jest to praca ze znakiem ujemnym, potem gdy v rośnie mamy pracę ze znakiem plus.<br>
+<img alt="Pasted image 20240228172123.png" src="lib/media/pasted-image-20240228172123.png"><br>
+Jeśli przepływ ciepło to oznacza to zmianę temperaturę, tutaj pojawia się pojemność cieplna układu. Pojemność cieplna zależy od procesu.<br>
+Uwaga! Proces izochoryczny, proces izobaryczny.<br>
+Skoro to takie ważne, to fajnie by było móc przewidzieć jakie są pojemności cieplne, powiedzmy, że mamy proces termodynamiczny w którym chcemy podgrzać litr wody, no ale np. podgrzanie dwóch litrów wody to jest ten sam problem tylko trzeba dostarczyć 2x wiecej energii.<br>
+<img alt="Pasted image 20240228172734.png" src="lib/media/pasted-image-20240228172734.png"><br>
+Co ciekawe prez to że woda ma dużą pojemność cieplną to klimat w okolicach morza/oceanu jest mniej zmienny, a kontynentalny bardziej.<br>
+<img alt="Pasted image 20240228172929.png" src="lib/media/pasted-image-20240228172929.png"><br>
+Proces izochoryczny, np. zamykamy gaz w szczelnym, twardym pudełku.<br>
+Praca jest zawsze zerowa, więc delta U = Q = C_v * dT<br>
+Ciśnienie się zmienia, objętość nie, ale temperatura musi się proporcjonalnie zmieniać, bo Clapeyron:<br>
+pV = nRT<br>
+<img alt="Pasted image 20240228173404.png" src="lib/media/pasted-image-20240228173404.png"><br>
+Teraz stałe ciśnienie, taki proces to np. bierzemy pokrywkę, która jest ruchoma i obciążamy ją jakimś ciężarkiem, zmieniając temperaturę, pokrywka (tłok) idzie w górę i w dół, ciśnienie się nie zmienia, ale V i T tak.<br>
+<img alt="Pasted image 20240228173654.png" src="lib/media/pasted-image-20240228173654.png"><br>
+Uwaga! pojemność cieplna w procesie izobarycznym będzie większa niż p.c. w procesie izochorycznym. (pamiętaj R - dla gazy doskonłęgo.)<br>
+<img alt="Pasted image 20240228173911.png" src="lib/media/pasted-image-20240228173911.png"><br>
+<img alt="Pasted image 20240228174132.png" src="lib/media/pasted-image-20240228174132.png"><br>
+p = 1/V z clapeyrona<br>
+Na tej krzywej energia wewnętrzna jest taka sama.<br><img alt="Pasted image 20240228174432.png" src="lib/media/pasted-image-20240228174432.png">p V T<br>
+U W Q<br>
+Nie omówiliśmy przemiany w której nie byłoby przepływu ciepła:<br>
+<img alt="Pasted image 20240228174603.png" src="lib/media/pasted-image-20240228174603.png"><br>
+Dobry przykład próby zrobienia przemiany adiabatycznej, termos - ale jak wiemy to i tak wystygnie :|. Żeby osiągnąć przemianę adiabatycną, wystarczy zrobić przemianę szybko, ciepło nie zdąży przepłynąć.<br>
+<img alt="Pasted image 20240228174948.png" src="lib/media/pasted-image-20240228174948.png"><br>
+<img alt="Pasted image 20240228175050.png" src="lib/media/pasted-image-20240228175050.png"><br>
+kappa - współczynnik Poissona (płasona)<br>
+kappa &gt; 1<br>
+<img alt="Pasted image 20240228175229.png" src="lib/media/pasted-image-20240228175229.png"><br>
+Adiabata na pewno będzie bardziej stroma niż izoterma.<br>
+<img alt="Pasted image 20240228175344.png" src="lib/media/pasted-image-20240228175344.png"><br>
+C - pojemność&nbsp;cieplna (cena zmiany temperatury)<br>
+<img alt="Pasted image 20240228175552.png" src="lib/media/pasted-image-20240228175552.png"><br>
+<img alt="Pasted image 20240228175637.png" src="lib/media/pasted-image-20240228175637.png"><br>
+Historyjka (eksperyment myślowy):<br>
+Bierzemy kawałek kredy i nagrywamy filmik na youtube'a wrzucamy od przodu i od tyłu i prosimy o stwierdzenie który jest do tyłu.<br>
+Teraz bierzemy garnek z wodą o malej temperaturze i potem pojemnik z wodą o dużej temperaturze, oba pojemniki mają termometr, zadajemy to pytanie ponownie.<br>Jak zapisać wzór tego o czym mówimy?<br>
+<img alt="Pasted image 20240228180221.png" src="lib/media/pasted-image-20240228180221.png"><br>
+Aby proces był odwracalny, musi być na wykresie slajd temu.<br>
+Żaden proces rzeczywisty nie może być odwracalny, ale w przybliżeniu prawie niektóre.<br>
+<img alt="Pasted image 20240228181833.png" src="lib/media/pasted-image-20240228181833.png"><br>
+Cykl znaczy że układ wraca do stanu początkowego, energia wewnętrzna się nie zmienia, ale to nie znaczy, że nic się nie dzieje. W całym cyklu praca jest netto niezerowa. To pobiera ciepło i wykonuje pracę, To jest silnik!!<br>
+<img alt="Pasted image 20240228182306.png" src="lib/media/pasted-image-20240228182306.png"><br>
+Najważniejszy cykl!?<br>
+Grzejnik i chłodnica.<br>
+<img alt="Pasted image 20240228182625.png" src="lib/media/pasted-image-20240228182625.png"><br>
+Cel silnika: zamieniać ciepło na pracę, jak ocenić czy jest dobry? Chcemy żeby praca była jak największa a ciepło jak najmniejsze. Stąd sprawność. Q - ciepło z grzejnika, Q* - ciepło oddane do chłodnicy.<br>
+<img alt="Pasted image 20240228183006.png" src="lib/media/pasted-image-20240228183006.png"><br>
+Cykl Carnot jest cyklem o największej możliwej sprawności przy zadanej różnicy temperatur grzejnika i chłodnicy.<br>
+<img alt="Pasted image 20240228183347.png" src="lib/media/pasted-image-20240228183347.png"><br>
+<img alt="Pasted image 20240228183627.png" src="lib/media/pasted-image-20240228183627.png"><br>
+<img alt="Pasted image 20240228184008.png" src="lib/media/pasted-image-20240228184008.png"><br>
+<img alt="Pasted image 20240228184245.png" src="lib/media/pasted-image-20240228184245.png"><br>
+<img alt="Pasted image 20240228184259.png" src="lib/media/pasted-image-20240228184259.png"><br>
+Gdyby nie sprężarka taki proces byłby niemożliwy dzięku drugiej zasadzie termodynamiki.<br>
+<img alt="Pasted image 20240228184403.png" src="lib/media/pasted-image-20240228184403.png"><br>
+<img alt="Pasted image 20240228184414.png" src="lib/media/pasted-image-20240228184414.png"><br>
+w slajdach cały proces<br>
+<img alt="Pasted image 20240228184755.png" src="lib/media/pasted-image-20240228184755.png"><br>
+<img alt="Pasted image 20240228184900.png" src="lib/media/pasted-image-20240228184900.png"><br>
+<img alt="Pasted image 20240228184904.png" src="lib/media/pasted-image-20240228184904.png"><br>
+<img alt="Pasted image 20240228185156.png" src="lib/media/pasted-image-20240228185156.png"><br>
+Entropia jest tym co mówi jak się zachowuje nasz układ samorzutnie. Każda przemiana nieodwracalna zachodzi w kierunku zwiększenia entropii.<br>
+<img alt="Pasted image 20240228185609.png" src="lib/media/pasted-image-20240228185609.png"><br>
+<img alt="Pasted image 20240228185701.png" src="lib/media/pasted-image-20240228185701.png"><br>
+<img alt="Pasted image 20240228185819.png" src="lib/media/pasted-image-20240228185819.png"><br>
+Entropia jest fundamentalnym pojęciem, której konsekwencje sa ogromne. To ona mówi, że przyszłość to jest coś&nbsp;innego niż przeszłość. To ona to dyktuje. Przyszłość to kierunek w którym entropia rośnie. Jakie warunki matematyczne musi spełniać proces, żeby móc go nazwać życiem? Układ jest żywy jeśli aktywnie obniża swoją entropię kosztem otoczenia. Z otoczenia dostajemy obniżenie entropii, kosztem zewnętrza. W związku z tym żyjemy.]]></description><link>fizyka-2/wykład-2.html</link><guid isPermaLink="false">Fizyka 2/Wykład 2.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 28 Feb 2024 18:01:32 GMT</pubDate><enclosure url="lib/media/pasted-image-20240228171754.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240228171754.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 3]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20240306171849.png" src="lib/media/pasted-image-20240306171849.png"><br>
+Stan równowagi to taki stan w którym parametry intensywne mają taką samą wartość wszędzie &lt;=&gt; Można przypisać układowi jedną wartość paramatru intensywnego.<br>Entropia jest addytywna! - na razie bez dowodu (ale potem będzie). Ilość moli i objętość jest oczywista jako addytywne.<br>Potencjał chemiczny - o ile zwiększa się energia układu, gdy dodamy do układu jakąś ilość danej materii.<br>Parametr intensywny ma związany ze sobą parametr ekstensywny.<br>
+ciśnienie - objętość<br>
+temperatura - entropia<br>
+potencjał chemiczny - liczba moli<br><img alt="Pasted image 20240306173153.png" src="lib/media/pasted-image-20240306173153.png"><br>
+Ten wykres to dowód, że cykl Carnota ma maksymalną sprawność.<br><img alt="Pasted image 20240306173907.png" src="lib/media/pasted-image-20240306173907.png"><br>
+<img alt="Pasted image 20240306173910.png" src="lib/media/pasted-image-20240306173910.png"><br>
+<img alt="Pasted image 20240306174507.png" src="lib/media/pasted-image-20240306174507.png"><br>
+<img alt="Pasted image 20240306174520.png" src="lib/media/pasted-image-20240306174520.png"><br>
+Dopiero mechanika kwantowa da nam możliwość wytłumaczenia paradoksu Gibbsa.<br>
+<img alt="Pasted image 20240306174603.png" src="lib/media/pasted-image-20240306174603.png"><br>
+<img alt="Pasted image 20240306174657.png" src="lib/media/pasted-image-20240306174657.png"><br>
+<img alt="Pasted image 20240306174733.png" src="lib/media/pasted-image-20240306174733.png"><br>
+Głównie przydatne w chemii ^<br>
+Zmiana slajdów.<br>
+<img alt="Pasted image 20240306174944.png" src="lib/media/pasted-image-20240306174944.png"><br>
+<img alt="Pasted image 20240306175203.png" src="lib/media/pasted-image-20240306175203.png"><br>
+<img alt="Pasted image 20240306181929.png" src="lib/media/pasted-image-20240306181929.png"><br>
+<img alt="Pasted image 20240306181932.png" src="lib/media/pasted-image-20240306181932.png"><br>
+Einstein story - Zurich itd...<br>
+<img alt="Pasted image 20240306182539.png" src="lib/media/pasted-image-20240306182539.png"><br>
+<img alt="Pasted image 20240306182650.png" src="lib/media/pasted-image-20240306182650.png"><br>
+&lt; a &gt; - wartość średnia a - alternatywne oznaczenie - tego się zwykle używa w fizyce.<br>
+<img alt="Pasted image 20240306183220.png" src="lib/media/pasted-image-20240306183220.png"><br>
+<img alt="Pasted image 20240306183224.png" src="lib/media/pasted-image-20240306183224.png"><br>
+<img alt="Pasted image 20240306183835.png" src="lib/media/pasted-image-20240306183835.png"><br>
+<img alt="Pasted image 20240306184200.png" src="lib/media/pasted-image-20240306184200.png"><br>
+<img alt="Pasted image 20240306184646.png" src="lib/media/pasted-image-20240306184646.png"><br>
+<img alt="Pasted image 20240306184650.png" src="lib/media/pasted-image-20240306184650.png"><br>
+<img alt="Pasted image 20240306184653.png" src="lib/media/pasted-image-20240306184653.png"><br>
+<img alt="Pasted image 20240306184659.png" src="lib/media/pasted-image-20240306184659.png">]]></description><link>fizyka-2/wykład-3.html</link><guid isPermaLink="false">Fizyka 2/Wykład 3.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 06 Mar 2024 17:47:01 GMT</pubDate><enclosure url="lib/media/pasted-image-20240306171849.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240306171849.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 4]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20240313171629.png" src="lib/media/pasted-image-20240313171629.png"><br>
+<img alt="Pasted image 20240313171642.png" src="lib/media/pasted-image-20240313171642.png"><br>
+<img alt="Pasted image 20240313172444.png" src="lib/media/pasted-image-20240313172444.png"><br>
+Co musimy dodać do naszej hipotezy, żeby uzyskać uogólnienie. No prawdziwe gazy to nie są gazy doskonałe - tylko czemu? Czym się&nbsp;różnią od gazów doskonałych.<br>
+<img alt="Pasted image 20240313172623.png" src="lib/media/pasted-image-20240313172623.png"><br>
+Każdy stopień swobody jest taki sam<br>
+<img alt="Pasted image 20240313172810.png" src="lib/media/pasted-image-20240313172810.png"><br>
+Tylko gazy szlachetne - składające się z jednego atomu mają 5/3kT - no bo kuleczka ma 3 stopnie swobody. Teraz tlen - 5 stopni swobody, ale jest jeszcze energia potencjalna łączenia atomów - oddziaływanie columbowskie, więc 7 stopni swobody.<br>
+<img alt="Pasted image 20240313173254.png" src="lib/media/pasted-image-20240313173254.png"><br>
+<img alt="Pasted image 20240313173354.png" src="lib/media/pasted-image-20240313173354.png"><br>
+<img alt="Pasted image 20240313173422.png" src="lib/media/pasted-image-20240313173422.png"><br>
+<img alt="Pasted image 20240313173651.png" src="lib/media/pasted-image-20240313173651.png"><br>
+To jednocześnie sukces i porażka fizyki klasycznej. Powstała tu potrzeba wymyślenia nowej fizyki - mechaniki kwantowej - trwało to wiele lat.<br>
+<img alt="Pasted image 20240313174623.png" src="lib/media/pasted-image-20240313174623.png"><br>
+<img alt="Pasted image 20240313174638.png" src="lib/media/pasted-image-20240313174638.png"><br>
+W fizyce statystycznej traktujemy np. prędkość cząsteczek jako rozkład prawdopodobieństwa i rozkład jest stały dla pewnych warunków.<br>
+<img alt="Pasted image 20240313175528.png" src="lib/media/pasted-image-20240313175528.png"><br>
+<img alt="Pasted image 20240313181854.png" src="lib/media/pasted-image-20240313181854.png"><br>
+<img alt="Pasted image 20240313182451.png" src="lib/media/pasted-image-20240313182451.png"><br>
+<img alt="Pasted image 20240313182627.png" src="lib/media/pasted-image-20240313182627.png"><br>
+<img alt="Pasted image 20240313182933.png" src="lib/media/pasted-image-20240313182933.png"><br>
+<img alt="Pasted image 20240313183525.png" src="lib/media/pasted-image-20240313183525.png"><br>
+<img alt="Pasted image 20240313183529.png" src="lib/media/pasted-image-20240313183529.png"><br>
+<img alt="Pasted image 20240313183945.png" src="lib/media/pasted-image-20240313183945.png"><br>
+<img alt="Pasted image 20240313183950.png" src="lib/media/pasted-image-20240313183950.png"><br>
+<img alt="Pasted image 20240313185228.png" src="lib/media/pasted-image-20240313185228.png">]]></description><link>fizyka-2/wykład-4.html</link><guid isPermaLink="false">Fizyka 2/Wykład 4.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 13 Mar 2024 17:52:30 GMT</pubDate><enclosure url="lib/media/pasted-image-20240313171629.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240313171629.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 5]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20240320171755.png" src="lib/media/pasted-image-20240320171755.png"><br>
+<img alt="Pasted image 20240320172151.png" src="lib/media/pasted-image-20240320172151.png"><br>
+<img alt="Pasted image 20240320173052.png" src="lib/media/pasted-image-20240320173052.png"><br>
+Właśnie z nowej definicji entropii wyprowadziliśmy starą =&gt; tylko,&nbsp;że tamta była fenomenologiczna, więc mamy coś lepszego.<br>
+<img alt="Pasted image 20240320173246.png" src="lib/media/pasted-image-20240320173246.png"><br>
+Może nowa definicja sobie z tym poradzi?<br>
+<img alt="Pasted image 20240320173418.png" src="lib/media/pasted-image-20240320173418.png"><br>
+Niestety brakuje nam jeszcze mechaniki kwantowej żeby dokładnie rozwiązać ten paradoks, bo cząsteczki tego samego gazu, są fundamentalnie nierozróżnialne - na prawach mechaniki kwantowej. Jeśli są rozróżnialne, to jest dużo więcej stanów - można ponumerować atomy. Fajny wzorek dla bardzo dużych N po prawej. No i teraz możemy stwierdzić, że nie ma paradoksu - entropia nie wzrasta.<br>
+<img alt="Pasted image 20240320174359.png" src="lib/media/pasted-image-20240320174359.png"><br>
+<img alt="Pasted image 20240320174646.png" src="lib/media/pasted-image-20240320174646.png"><br>
+<img alt="Pasted image 20240320174933.png" src="lib/media/pasted-image-20240320174933.png"><br>
+<img alt="Pasted image 20240320175225.png" src="lib/media/pasted-image-20240320175225.png"><br>
+<img alt="Pasted image 20240320175257.png" src="lib/media/pasted-image-20240320175257.png"><br>
+<img alt="Pasted image 20240320175406.png" src="lib/media/pasted-image-20240320175406.png"><br>
+<img alt="Pasted image 20240320175437.png" src="lib/media/pasted-image-20240320175437.png"><br>
+<img alt="Pasted image 20240320175729.png" src="lib/media/pasted-image-20240320175729.png"><br>
+<img alt="Pasted image 20240320175945.png" src="lib/media/pasted-image-20240320175945.png"><br>
+<img alt="Pasted image 20240320180142.png" src="lib/media/pasted-image-20240320180142.png"><br>
+<img alt="Pasted image 20240320180615.png" src="lib/media/pasted-image-20240320180615.png"><br>
+<img alt="Pasted image 20240320180618.png" src="lib/media/pasted-image-20240320180618.png"><br>
+<img alt="Pasted image 20240320180621.png" src="lib/media/pasted-image-20240320180621.png"><br>
+Mocny dowód
+<br><br><img alt="Pasted image 20240320181944.png" src="lib/media/pasted-image-20240320181944.png"><br>
+<img alt="Pasted image 20240320182236.png" src="lib/media/pasted-image-20240320182236.png"><br>
+<img alt="Pasted image 20240320182252.png" src="lib/media/pasted-image-20240320182252.png"><br>
+<img alt="Pasted image 20240320183246.png" src="lib/media/pasted-image-20240320183246.png"><br>
+<img alt="Pasted image 20240320183250.png" src="lib/media/pasted-image-20240320183250.png"><br>
+<img alt="Pasted image 20240320183813.png" src="lib/media/pasted-image-20240320183813.png"><br>
+<img alt="Pasted image 20240320184232.png" src="lib/media/pasted-image-20240320184232.png"><br>
+<img alt="Pasted image 20240320184317.png" src="lib/media/pasted-image-20240320184317.png"><br>
+<img alt="Pasted image 20240320184528.png" src="lib/media/pasted-image-20240320184528.png"><img alt="Pasted image 20240320184911.png" src="lib/media/pasted-image-20240320184911.png"><br>
+<img alt="Pasted image 20240320184918.png" src="lib/media/pasted-image-20240320184918.png"><br>
+<img alt="Pasted image 20240320185135.png" src="lib/media/pasted-image-20240320185135.png"><br>
+<img alt="Pasted image 20240320185317.png" src="lib/media/pasted-image-20240320185317.png"><br>
+<img alt="Pasted image 20240320185320.png" src="lib/media/pasted-image-20240320185320.png"><br>
+<img alt="Pasted image 20240320185707.png" src="lib/media/pasted-image-20240320185707.png"><br>
+<img alt="Pasted image 20240320185710.png" src="lib/media/pasted-image-20240320185710.png"><br>
+Współczynnik załamania zależy również od długości fali, teraz dla nas to nieistotne, ale będzie kiedyś.<br>
+<img alt="Pasted image 20240320185749.png" src="lib/media/pasted-image-20240320185749.png"><br>
+<img alt="Pasted image 20240320185901.png" src="lib/media/pasted-image-20240320185901.png"><br>
+<img alt="Pasted image 20240320185924.png" src="lib/media/pasted-image-20240320185924.png"><br>
+<img alt="Pasted image 20240320190017.png" src="lib/media/pasted-image-20240320190017.png"><br>
+<img alt="Pasted image 20240320190131.png" src="lib/media/pasted-image-20240320190131.png">]]></description><link>fizyka-2/wykład-5.html</link><guid isPermaLink="false">Fizyka 2/Wykład 5.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 20 Mar 2024 18:01:33 GMT</pubDate><enclosure url="lib/media/pasted-image-20240320171755.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240320171755.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 6]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20240321120847.png" src="lib/media/pasted-image-20240321120847.png"><br>
+To co poprzednio robilliśmy to były bardzo podstawowe i proste rzeczy, pomyślmy czy z tego jesteśmy w stanie stworzyć ciekawe użyteczne przyrządy. PIerwszym co rozważamy jest zwieciadło - co więcej sferyczne. Powierzchnia lustrzana<br>
+<img alt="Pasted image 20240321121255.png" src="lib/media/pasted-image-20240321121255.png"><br>
+<img alt="Pasted image 20240321121624.png" src="lib/media/pasted-image-20240321121624.png"><br>
+<img alt="Pasted image 20240321122031.png" src="lib/media/pasted-image-20240321122031.png"><br>
+<img alt="Pasted image 20240321122036.png" src="lib/media/pasted-image-20240321122036.png"><br>
+Antena satelitarna to zwierciadło paraboliczne.<br>
+<img alt="Pasted image 20240321122455.png" src="lib/media/pasted-image-20240321122455.png"><br>
+<img alt="Pasted image 20240321122602.png" src="lib/media/pasted-image-20240321122602.png"><br>
+<img alt="Pasted image 20240321122931.png" src="lib/media/pasted-image-20240321122931.png"><br>
+<img alt="Pasted image 20240321123332.png" src="lib/media/pasted-image-20240321123332.png"><img alt="Pasted image 20240321123516.png" src="lib/media/pasted-image-20240321123516.png"><br>
+<img alt="Pasted image 20240321123659.png" src="lib/media/pasted-image-20240321123659.png"><br>
+<img alt="Pasted image 20240321124031.png" src="lib/media/pasted-image-20240321124031.png"><br>
+<img alt="Pasted image 20240321124035.png" src="lib/media/pasted-image-20240321124035.png"><br>
+<img alt="Pasted image 20240321124039.png" src="lib/media/pasted-image-20240321124039.png"><br>
+<img alt="Pasted image 20240321124415.png" src="lib/media/pasted-image-20240321124415.png"><br>
+<img alt="Pasted image 20240321124816.png" src="lib/media/pasted-image-20240321124816.png"><br>
+<img alt="Pasted image 20240321125123.png" src="lib/media/pasted-image-20240321125123.png"><br>
+<img alt="Pasted image 20240321125158.png" src="lib/media/pasted-image-20240321125158.png"><br>
+<img alt="Pasted image 20240321125359.png" src="lib/media/pasted-image-20240321125359.png"><br>
+<img alt="Pasted image 20240321125417.png" src="lib/media/pasted-image-20240321125417.png"><br>
+<img alt="Pasted image 20240321130236.png" src="lib/media/pasted-image-20240321130236.png"><br><a data-tooltip-position="top" aria-label="file:///home/mytkom/Documents/Fizyka%202/Optyka-6-optyka-falowa-2022.pdf" rel="noopener" class="external-link" href="file://home/mytkom/Documents/Fizyka 2/Optyka-6-optyka-falowa-2022.pdf" target="_blank">Nowe slajdy</a><br>
+<img alt="Pasted image 20240321130328.png" src="lib/media/pasted-image-20240321130328.png"><br>
+<img alt="Pasted image 20240321130438.png" src="lib/media/pasted-image-20240321130438.png"><br>
+<img alt="Pasted image 20240321131007.png" src="lib/media/pasted-image-20240321131007.png"><br>
+<img alt="Pasted image 20240321131010.png" src="lib/media/pasted-image-20240321131010.png"><br>
+<img alt="Pasted image 20240321131305.png" src="lib/media/pasted-image-20240321131305.png"><br>
+Z zasady Huygensa można wyprowadzić&nbsp;prawo załamania.<br>
+<img alt="Pasted image 20240321131500.png" src="lib/media/pasted-image-20240321131500.png"><br>
+<img alt="Pasted image 20240321132101.png" src="lib/media/pasted-image-20240321132101.png"><br>
+<img alt="Pasted image 20240321132252.png" src="lib/media/pasted-image-20240321132252.png"><br>
+<img alt="Pasted image 20240321132843.png" src="lib/media/pasted-image-20240321132843.png"><br>
+<img alt="Pasted image 20240321133040.png" src="lib/media/pasted-image-20240321133040.png"><br>
+<img alt="Pasted image 20240321133247.png" src="lib/media/pasted-image-20240321133247.png"><br>
+<img alt="Pasted image 20240321133251.png" src="lib/media/pasted-image-20240321133251.png"><br>
+<img alt="Pasted image 20240321133618.png" src="lib/media/pasted-image-20240321133618.png"><br>
+<img alt="Pasted image 20240321133635.png" src="lib/media/pasted-image-20240321133635.png"><br>
+<img alt="Pasted image 20240321133742.png" src="lib/media/pasted-image-20240321133742.png"><br>
+<img alt="Pasted image 20240321133842.png" src="lib/media/pasted-image-20240321133842.png"><br>
+Optyka tak na prawdę zaczęła się jako diedzina nauki kiedy odkryto laser.]]></description><link>fizyka-2/wykład-6.html</link><guid isPermaLink="false">Fizyka 2/Wykład 6.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 03 Jun 2024 19:49:58 GMT</pubDate><enclosure url="lib/media/pasted-image-20240321120847.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240321120847.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 7]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20240327173643.png" src="lib/media/pasted-image-20240327173643.png"><br>
+<img alt="Pasted image 20240327173701.png" src="lib/media/pasted-image-20240327173701.png"><br>
+<img alt="Pasted image 20240327173704.png" src="lib/media/pasted-image-20240327173704.png"><br>
+<img alt="Pasted image 20240327174227.png" src="lib/media/pasted-image-20240327174227.png"><br>
+<img alt="Pasted image 20240327174329.png" src="lib/media/pasted-image-20240327174329.png"><br>
+<img alt="Pasted image 20240327174828.png" src="lib/media/pasted-image-20240327174828.png"><br>
+<img alt="Pasted image 20240327174923.png" src="lib/media/pasted-image-20240327174923.png"><br>
+<img alt="Pasted image 20240327175017.png" src="lib/media/pasted-image-20240327175017.png"><br>
+<img alt="Pasted image 20240327175505.png" src="lib/media/pasted-image-20240327175505.png"><br>
+<img alt="Pasted image 20240327175752.png" src="lib/media/pasted-image-20240327175752.png"><br>
+<img alt="Pasted image 20240327175945.png" src="lib/media/pasted-image-20240327175945.png"><br>
+<img alt="Pasted image 20240327181513.png" src="lib/media/pasted-image-20240327181513.png"><br>
+<img alt="Pasted image 20240327181516.png" src="lib/media/pasted-image-20240327181516.png"><br>
+<img alt="Pasted image 20240327181820.png" src="lib/media/pasted-image-20240327181820.png"><br>
+<img alt="Pasted image 20240327182202.png" src="lib/media/pasted-image-20240327182202.png"><br>
+<img alt="Pasted image 20240327182206.png" src="lib/media/pasted-image-20240327182206.png"><br>
+<img alt="Pasted image 20240327182409.png" src="lib/media/pasted-image-20240327182409.png"><br>
+<img alt="Pasted image 20240327182751.png" src="lib/media/pasted-image-20240327182751.png"><br>
+<img alt="Pasted image 20240327182909.png" src="lib/media/pasted-image-20240327182909.png"><br>
+<img alt="Pasted image 20240327182928.png" src="lib/media/pasted-image-20240327182928.png"><br>
+<img alt="Pasted image 20240327182934.png" src="lib/media/pasted-image-20240327182934.png"><br>
+<img alt="Pasted image 20240327183135.png" src="lib/media/pasted-image-20240327183135.png"><br>
+<img alt="Pasted image 20240327183337.png" src="lib/media/pasted-image-20240327183337.png"><br>
+Następne slajdy<br>
+<img alt="Pasted image 20240327183541.png" src="lib/media/pasted-image-20240327183541.png"><br>
+Ciało doskonale czarne może świecić, ale nie odbija.<br>
+<img alt="Pasted image 20240327184451.png" src="lib/media/pasted-image-20240327184451.png"><br>
+<img alt="Pasted image 20240327184454.png" src="lib/media/pasted-image-20240327184454.png"><br>
+<img alt="Pasted image 20240327185057.png" src="lib/media/pasted-image-20240327185057.png"><br>
+<img alt="Pasted image 20240327185100.png" src="lib/media/pasted-image-20240327185100.png"><br>
+<img alt="Pasted image 20240327185103.png" src="lib/media/pasted-image-20240327185103.png"><br>
+<img alt="Pasted image 20240327185351.png" src="lib/media/pasted-image-20240327185351.png"><br>
+<img alt="Pasted image 20240327185356.png" src="lib/media/pasted-image-20240327185356.png"><br>
+<img alt="Pasted image 20240327185443.png" src="lib/media/pasted-image-20240327185443.png">]]></description><link>fizyka-2/wykład-7.html</link><guid isPermaLink="false">Fizyka 2/Wykład 7.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 27 Mar 2024 17:54:45 GMT</pubDate><enclosure url="lib/media/pasted-image-20240327173643.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240327173643.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 8]]></title><description><![CDATA[ 
  <br><img alt="Pasted image 20240410171355.png" src="lib/media/pasted-image-20240410171355.png"><br>
 <img alt="Pasted image 20240410171746.png" src="lib/media/pasted-image-20240410171746.png"><br>
 Formalizmy cząsteczkowe i falowe są sprzeczne<br>
@@ -198,7 +519,208 @@ Nowe slajdy<br>
 <img alt="Pasted image 20240410185642.png" src="lib/media/pasted-image-20240410185642.png"><br>
 <img alt="Pasted image 20240410185645.png" src="lib/media/pasted-image-20240410185645.png"><br>
 <img alt="Pasted image 20240410185648.png" src="lib/media/pasted-image-20240410185648.png"><br>
-<img alt="Pasted image 20240410185924.png" src="lib/media/pasted-image-20240410185924.png">]]></description><link>fizyka-2/wykład-8.html</link><guid isPermaLink="false">Fizyka 2/Wykład 8.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:36:34 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410171355.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240410171355.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 14]]></title><description><![CDATA[ 
+<img alt="Pasted image 20240410185924.png" src="lib/media/pasted-image-20240410185924.png">]]></description><link>fizyka-2/wykład-8.html</link><guid isPermaLink="false">Fizyka 2/Wykład 8.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 10 Jun 2024 20:36:34 GMT</pubDate><enclosure url="lib/media/pasted-image-20240410171355.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240410171355.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 9]]></title><description><![CDATA[ 
+ <br>Początek mechaniki kwantowej<br>
+Dzisiejsza nowoczesna fizyka jest zastosowaniem teorii grup.<br>
+Supremacja kwantowa - tylko dla niektórych problemów.<br>
+<img alt="Pasted image 20240417144751.png" src="lib/media/pasted-image-20240417144751.png"><br>
+<img alt="Pasted image 20240417144803.png" src="lib/media/pasted-image-20240417144803.png"><br>
+<img alt="Pasted image 20240417145231.png" src="lib/media/pasted-image-20240417145231.png"><br>
+<img alt="Pasted image 20240417150513.png" src="lib/media/pasted-image-20240417150513.png"><br>
+Funkcja urojona zmiennej rzeczywistej<br>
+<img alt="Pasted image 20240417151343.png" src="lib/media/pasted-image-20240417151343.png"><br>
+<img alt="Pasted image 20240417151543.png" src="lib/media/pasted-image-20240417151543.png"><br>
+input równania: tylko operator A<br>
+zarówno  i  to wyniki<br>
+ jest rozwiązaniem równania, każde  jest dobrym rozwiązaniem równania, ale nas interesuje para  i . Dostajemy z tego zbiór rozwiązań wartości własnej i funkcji własnej.<br>
+Rozważmy przypadek, gdy nasza funkcja jest okresowa.<br>
+ to warunek kwantowania Bohra, wyszedł nam z tych rozważań.<br>
+<img alt="Pasted image 20240417152253.png" src="lib/media/pasted-image-20240417152253.png"><br>
+Niektóre pary operatorów nie są przemienne - nie komutują - ich operator nie wynosi 0.<br>Operator A to pomiar.<br>
+u_n(x) to obiekt na którym wykonujemy pomiar (np. cząstka - technicznie to może być wszystko).<br>
+a_n to jeden z możliwych wyników pomiaru.<br>
+<img alt="Pasted image 20240417152904.png" src="lib/media/pasted-image-20240417152904.png"><br>
+<img alt="Pasted image 20240417152917.png" src="lib/media/pasted-image-20240417152917.png"><br>
+<img alt="Pasted image 20240417153629.png" src="lib/media/pasted-image-20240417153629.png"><br>
+<img alt="Pasted image 20240417154156.png" src="lib/media/pasted-image-20240417154156.png"><br>
+<img alt="Pasted image 20240417154203.png" src="lib/media/pasted-image-20240417154203.png">]]></description><link>fizyka-2/wykład-9.html</link><guid isPermaLink="false">Fizyka 2/Wykład 9.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 17 Apr 2024 13:42:05 GMT</pubDate><enclosure url="lib/media/pasted-image-20240417144751.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240417144751.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 10]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20240424173222.png" src="lib/media/pasted-image-20240424173222.png"><br>
+Bóg nie gra w kości - reference<br>
+<img alt="Pasted image 20240424173228.png" src="lib/media/pasted-image-20240424173228.png"><br>
+<img alt="Pasted image 20240424173208.png" src="lib/media/pasted-image-20240424173208.png"><br>
+<img alt="Pasted image 20240424175325.png" src="lib/media/pasted-image-20240424175325.png"><br>
+<img alt="Pasted image 20240424175650.png" src="lib/media/pasted-image-20240424175650.png"><br>
+Próba pomiaru jednego, powoduje niekontrolowaną zmianę drugiego.<br>
+<img alt="Pasted image 20240424181021.png" src="lib/media/pasted-image-20240424181021.png"><br>
+<img alt="Pasted image 20240424181719.png" src="lib/media/pasted-image-20240424181719.png"><br>
+<img alt="Pasted image 20240424182325.png" src="lib/media/pasted-image-20240424182325.png"><br>
+<img alt="Pasted image 20240424182533.png" src="lib/media/pasted-image-20240424182533.png"><br>
+<img alt="Pasted image 20240424182930.png" src="lib/media/pasted-image-20240424182930.png"><br>
+<img alt="Pasted image 20240424182936.png" src="lib/media/pasted-image-20240424182936.png"><br>
+<img alt="Pasted image 20240424183054.png" src="lib/media/pasted-image-20240424183054.png"><br>
+<img alt="Pasted image 20240424183543.png" src="lib/media/pasted-image-20240424183543.png"><br>
+<img alt="Pasted image 20240424183615.png" src="lib/media/pasted-image-20240424183615.png"><br>
+<img alt="Pasted image 20240424183639.png" src="lib/media/pasted-image-20240424183639.png"><br>
+<img alt="Pasted image 20240424183747.png" src="lib/media/pasted-image-20240424183747.png"><br>
+<img alt="Pasted image 20240424184002.png" src="lib/media/pasted-image-20240424184002.png"><br>
+<img alt="Pasted image 20240424184128.png" src="lib/media/pasted-image-20240424184128.png"><br>
+<img alt="Pasted image 20240424184546.png" src="lib/media/pasted-image-20240424184546.png"><br>
+<img alt="Pasted image 20240424184558.png" src="lib/media/pasted-image-20240424184558.png"><br>
+<img alt="Pasted image 20240424184824.png" src="lib/media/pasted-image-20240424184824.png"><br>
+Jeżeli nasze operatory komutują ze sobą to mają wspólne funkcje własne<br>
+<img alt="Pasted image 20240424185152.png" src="lib/media/pasted-image-20240424185152.png"><br>
+<img alt="Pasted image 20240424185708.png" src="lib/media/pasted-image-20240424185708.png">]]></description><link>fizyka-2/wykład-10.html</link><guid isPermaLink="false">Fizyka 2/Wykład 10.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 24 Apr 2024 16:57:10 GMT</pubDate><enclosure url="lib/media/pasted-image-20240424173222.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240424173222.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 11]]></title><description><![CDATA[ 
+ <br>Nie było mnie na 30 minutach bo poprzedni wykład się przedłużył.<br>
+<img alt="Pasted image 20240508174816.png" src="lib/media/pasted-image-20240508174816.png"><br>
+<img alt="Pasted image 20240508174823.png" src="lib/media/pasted-image-20240508174823.png"><br>
+<img alt="Pasted image 20240508174945.png" src="lib/media/pasted-image-20240508174945.png"><br>
+<img alt="Pasted image 20240508175329.png" src="lib/media/pasted-image-20240508175329.png"><br>
+<img alt="Pasted image 20240508175333.png" src="lib/media/pasted-image-20240508175333.png"><br>
+Harmoniki sferyczne<br>
+<img alt="Pasted image 20240508181518.png" src="lib/media/pasted-image-20240508181518.png"><br>
+<img alt="Pasted image 20240508181521.png" src="lib/media/pasted-image-20240508181521.png"><br>
+<img alt="Pasted image 20240508181524.png" src="lib/media/pasted-image-20240508181524.png"><br>
+<img alt="Pasted image 20240508181923.png" src="lib/media/pasted-image-20240508181923.png"><br>
+<img alt="Pasted image 20240508181926.png" src="lib/media/pasted-image-20240508181926.png"><br>
+<img alt="Pasted image 20240508182502.png" src="lib/media/pasted-image-20240508182502.png"><br>
+<img alt="Pasted image 20240508182827.png" src="lib/media/pasted-image-20240508182827.png"><br>
+<img alt="Pasted image 20240508183046.png" src="lib/media/pasted-image-20240508183046.png"><br>
+<img alt="Pasted image 20240508183321.png" src="lib/media/pasted-image-20240508183321.png"><br>
+<img alt="Pasted image 20240508183423.png" src="lib/media/pasted-image-20240508183423.png"><br>
+<img alt="Pasted image 20240508183514.png" src="lib/media/pasted-image-20240508183514.png"><br>
+<img alt="Pasted image 20240508183922.png" src="lib/media/pasted-image-20240508183922.png"><br>
+<img alt="Pasted image 20240508184032.png" src="lib/media/pasted-image-20240508184032.png"><br>
+<img alt="Pasted image 20240508184035.png" src="lib/media/pasted-image-20240508184035.png"><br>
+2<br>
+8<br>
+18<br>
+32<br>
+Tak jak wynika z mechaniki kwantowej<br>
+<img alt="Pasted image 20240508184603.png" src="lib/media/pasted-image-20240508184603.png"><br>
+<img alt="Pasted image 20240508184621.png" src="lib/media/pasted-image-20240508184621.png"><br>
+Prawdziwie potężna teoria!
+]]></description><link>fizyka-2/wykład-11.html</link><guid isPermaLink="false">Fizyka 2/Wykład 11.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 08 May 2024 17:01:09 GMT</pubDate><enclosure url="lib/media/pasted-image-20240508174816.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240508174816.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 12]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20240522173024.png" src="lib/media/pasted-image-20240522173024.png"><br>
+<img alt="Pasted image 20240522173027.png" src="lib/media/pasted-image-20240522173027.png"><br>
+<img alt="Pasted image 20240522173030.png" src="lib/media/pasted-image-20240522173030.png"><br>
+<img alt="Pasted image 20240522173033.png" src="lib/media/pasted-image-20240522173033.png"><br>
+<img alt="Pasted image 20240522173341.png" src="lib/media/pasted-image-20240522173341.png"><br>
+<img alt="Pasted image 20240522173634.png" src="lib/media/pasted-image-20240522173634.png"><br>
+<img alt="Pasted image 20240522173922.png" src="lib/media/pasted-image-20240522173922.png"><br>
+<img alt="Pasted image 20240522174039.png" src="lib/media/pasted-image-20240522174039.png"><br>
+<img alt="Pasted image 20240522174233.png" src="lib/media/pasted-image-20240522174233.png"><br>
+<img alt="Pasted image 20240522174934.png" src="lib/media/pasted-image-20240522174934.png"><br>
+Czym cięższe jądro tym więcej chcemy mieć neutronów. (Żeby uzykać stabilne jądro)<img alt="Pasted image 20240522175459.png" src="lib/media/pasted-image-20240522175459.png"><br>
+<img alt="Pasted image 20240522175739.png" src="lib/media/pasted-image-20240522175739.png"><br>
+<img alt="Pasted image 20240522180000.png" src="lib/media/pasted-image-20240522180000.png"><br>
+<img alt="Pasted image 20240522181533.png" src="lib/media/pasted-image-20240522181533.png"><br>
+Wszystkie jądra które mają taką samą liczbę protonów i neutronów są NIEROZRÓŻNIALNE
+<br>Wzbudzone jądro ma inne własności mimo takiego samego A i Z - między innymi jest promieniotwórcze - to dość oczywiste.<br>
+<img alt="Pasted image 20240522181822.png" src="lib/media/pasted-image-20240522181822.png"><br>
+Przekrój czynny  - powierzchnia, wiązka zbliża się do kawałka materiału który jest rzadki, jakie jest prawdopodobieństwo tego, że jakaś cząstka trafi w jądro atomowe. Pole powierzchni jąder / pole powierzchni całości. Więc prawdopodobieństwo to pole przekroju jądra - ale robimy to bardziej subtelnie, bo jądro może rozpaść się na wiele cząstek.<br>
+<img alt="Pasted image 20240522182139.png" src="lib/media/pasted-image-20240522182139.png"><br>
+<img alt="Pasted image 20240522182419.png" src="lib/media/pasted-image-20240522182419.png"><br>
+Ile cząstek ubędzie nam z wiązki po przebyciu infinityzemalnej odległości.<br>
+<img alt="Pasted image 20240522182555.png" src="lib/media/pasted-image-20240522182555.png"><br>
+barn - stodoła<br>
+<img alt="Pasted image 20240522182732.png" src="lib/media/pasted-image-20240522182732.png"><br>
+<img alt="Pasted image 20240522182740.png" src="lib/media/pasted-image-20240522182740.png"><br>
+<img alt="Pasted image 20240522183102.png" src="lib/media/pasted-image-20240522183102.png"><br>
+Aston siedział 10 lat i mierzył spektroskopem masowym pierrwiastki występujące w przyrodzie.<br>
+Wszystkie są prawie dokładnie równie odległe o wielokrotność pewnej wartości masy.<br>
+<img alt="Pasted image 20240522183347.png" src="lib/media/pasted-image-20240522183347.png"><br>
+<img alt="Pasted image 20240522183354.png" src="lib/media/pasted-image-20240522183354.png"><br>
+Zwykle 1 lub 2 izotopy które dominują licznością, reszty jest mniej i im dalej od głównego tym mniej.<br>
+<img alt="Pasted image 20240522183544.png" src="lib/media/pasted-image-20240522183544.png"><br>
+Masy w układzie okresowym to uśrednione wartości, przecież makroskopowo mierzymy niezliczone ilości pierwiastków.<br>
+<img alt="Pasted image 20240522183631.png" src="lib/media/pasted-image-20240522183631.png"><br>
+Uwaga - skala logarytmiczna!!<br>
+Abundancja - częstość występowania w przyrodzie.<br>
+Liczby magiczne - liczby gdzie występuje peak abundancji<br>
+<img alt="Pasted image 20240522183931.png" src="lib/media/pasted-image-20240522183931.png"><br>
+Dół potencjału. E = mc^2<br>
+<img alt="Pasted image 20240522184458.png" src="lib/media/pasted-image-20240522184458.png"><br>
+Podwójnie magiczne = ma zarówno ilość protonów i neutronów jako liczba magiczna = jest bardzo silnie związana.<br>
+<img alt="Pasted image 20240522184706.png" src="lib/media/pasted-image-20240522184706.png"><br>
+Żelazo 56 ma maks. energię wiązania na nukleon.<br>
+<img alt="Pasted image 20240522184930.png" src="lib/media/pasted-image-20240522184930.png"><br>
+<img alt="Pasted image 20240522185044.png" src="lib/media/pasted-image-20240522185044.png"><br>
+<img alt="Pasted image 20240522185049.png" src="lib/media/pasted-image-20240522185049.png"><br>
+<img alt="Pasted image 20240522185124.png" src="lib/media/pasted-image-20240522185124.png"><br>
+<img alt="Pasted image 20240522185102.png" src="lib/media/pasted-image-20240522185102.png"><br>
+<img alt="Pasted image 20240522185742.png" src="lib/media/pasted-image-20240522185742.png"><br>
+<img alt="Pasted image 20240522185754.png" src="lib/media/pasted-image-20240522185754.png"><br>
+<img alt="Pasted image 20240522185801.png" src="lib/media/pasted-image-20240522185801.png">]]></description><link>fizyka-2/wykład-12.html</link><guid isPermaLink="false">Fizyka 2/Wykład 12.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 22 May 2024 16:58:03 GMT</pubDate><enclosure url="lib/media/pasted-image-20240522173024.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240522173024.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 13]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20240529171853.png" src="lib/media/pasted-image-20240529171853.png"><br>
+<img alt="Pasted image 20240529171856.png" src="lib/media/pasted-image-20240529171856.png"><br>
+<img alt="Pasted image 20240529171948.png" src="lib/media/pasted-image-20240529171948.png"><br>
+<img alt="Pasted image 20240529172140.png" src="lib/media/pasted-image-20240529172140.png"><br>
+Oddziaływanie jest wysycone to znaczy że jak doklejamy nukleon to on reaguje tylko z najbliższymi a reszta jest zekranowana.<br>
+<img alt="Pasted image 20240529172633.png" src="lib/media/pasted-image-20240529172633.png"><br>
+Krótkozasięgowe!!<br>
+Oddziaływania wymienne - wymieniają coś, np wirtualny foton.<br>
+<img alt="Pasted image 20240529172943.png" src="lib/media/pasted-image-20240529172943.png"><br>
+Cząstka wirtualna - jest emitowana i prawie od razu znika<br>
+Jeśli złamiemy zasadę zachowania energii ale jeśli będzie ona trwała bardzo krótko to z zasady nieoznaczoności Heisenberga jest ok.<br>
+<img alt="Pasted image 20240529173459.png" src="lib/media/pasted-image-20240529173459.png"><br>
+Teoria nieprawdziwa choć przybliża dobrze oddziaływania międzykwarkowe i wymiany kolorów w skali protonów i neutronów w jądrze atomowym.<br>
+<img alt="Pasted image 20240529173835.png" src="lib/media/pasted-image-20240529173835.png"><br>
+<img alt="Pasted image 20240529173838.png" src="lib/media/pasted-image-20240529173838.png"><br>
+Uproszczony model użyteczny, bo nie poprzedni model jest zbyt skomplikowany, żeby przeprowadzać obliczenia dla bardziej skomplikowanych jąder - nie mamy tyle mocy obliczeniowej.<br>
+<img alt="Pasted image 20240529174121.png" src="lib/media/pasted-image-20240529174121.png"><br>
+<img alt="Pasted image 20240529174242.png" src="lib/media/pasted-image-20240529174242.png"><br>
+<img alt="Pasted image 20240529174405.png" src="lib/media/pasted-image-20240529174405.png"><br>
+<img alt="Pasted image 20240529174516.png" src="lib/media/pasted-image-20240529174516.png"><br>
+<img alt="Pasted image 20240529174518.png" src="lib/media/pasted-image-20240529174518.png"><br>
+<img alt="Pasted image 20240529174632.png" src="lib/media/pasted-image-20240529174632.png"><br>
+<img alt="Pasted image 20240529174644.png" src="lib/media/pasted-image-20240529174644.png"><br>
+<img alt="Pasted image 20240529174725.png" src="lib/media/pasted-image-20240529174725.png"><br>
+<img alt="Pasted image 20240529174729.png" src="lib/media/pasted-image-20240529174729.png"><br>
+<img alt="Pasted image 20240529174809.png" src="lib/media/pasted-image-20240529174809.png"><br>
+<img alt="Pasted image 20240529174829.png" src="lib/media/pasted-image-20240529174829.png"><br>
+<img alt="Pasted image 20240529174932.png" src="lib/media/pasted-image-20240529174932.png"><br>
+<img alt="Pasted image 20240529175121.png" src="lib/media/pasted-image-20240529175121.png"><br>
+<img alt="Pasted image 20240529175433.png" src="lib/media/pasted-image-20240529175433.png"><br>
+<img alt="Pasted image 20240529175506.png" src="lib/media/pasted-image-20240529175506.png"><br>
+<img alt="Pasted image 20240529175528.png" src="lib/media/pasted-image-20240529175528.png"><br>
+<img alt="Pasted image 20240529175532.png" src="lib/media/pasted-image-20240529175532.png"><br>
+<img alt="Pasted image 20240529175614.png" src="lib/media/pasted-image-20240529175614.png"><br>
+<img alt="Pasted image 20240529175617.png" src="lib/media/pasted-image-20240529175617.png"><br>
+Mimo, że matematyka takiego modelu jest zupełnie inna to wychodzą nam liczby magiczne. Jako powłoki nukleonów krążące dookoła siebie.<br>
+<img alt="Pasted image 20240529175803.png" src="lib/media/pasted-image-20240529175803.png"><br>
+Fizyka opisu zachowania jąder ciężkich nadal trwają. Tam nie jest wszystko wiadomo.<br>Nowe slajdy<br>
+<img alt="Pasted image 20240529182213.png" src="lib/media/pasted-image-20240529182213.png"><br>
+<img alt="Pasted image 20240529182217.png" src="lib/media/pasted-image-20240529182217.png"><br>
+<img alt="Pasted image 20240529182223.png" src="lib/media/pasted-image-20240529182223.png"><br>
+<img alt="Pasted image 20240529183341.png" src="lib/media/pasted-image-20240529183341.png"><br>
+Według kiśla gdzieś w top 10 naukowców świata.<br>
+<img alt="Pasted image 20240529183531.png" src="lib/media/pasted-image-20240529183531.png"><br>
+<img alt="Pasted image 20240529183534.png" src="lib/media/pasted-image-20240529183534.png"><br>
+<img alt="Pasted image 20240529183537.png" src="lib/media/pasted-image-20240529183537.png"><br>
+<img alt="Pasted image 20240529183743.png" src="lib/media/pasted-image-20240529183743.png"><br>
+<img alt="Pasted image 20240529183858.png" src="lib/media/pasted-image-20240529183858.png"><br>
+<img alt="Pasted image 20240529183901.png" src="lib/media/pasted-image-20240529183901.png"><br>
+<img alt="Pasted image 20240529184348.png" src="lib/media/pasted-image-20240529184348.png"><br>
+Promieniowanie Gamma - wyrzucenie nadmiaru energii.<br>
+<img alt="Pasted image 20240529184422.png" src="lib/media/pasted-image-20240529184422.png"><br>
+<img alt="Pasted image 20240529184610.png" src="lib/media/pasted-image-20240529184610.png"><br>
+<img alt="Pasted image 20240529184648.png" src="lib/media/pasted-image-20240529184648.png"><br>
+<img alt="Pasted image 20240529184650.png" src="lib/media/pasted-image-20240529184650.png"><br>
+Energetycznie korzystne jest żeby wypromieniować cząstkę alfa.<br>
+<img alt="Pasted image 20240529184907.png" src="lib/media/pasted-image-20240529184907.png"><br>
+Nasze rozumienie rozpadu alfa to kwantowe tunelowanie potencjału. Znamy prawdopodobieństwo tunelowania.<br>
+Tunelowanie cząstki alfa przez barierę potencjału.<br>
+<img alt="Pasted image 20240529185150.png" src="lib/media/pasted-image-20240529185150.png"><br>
+NIE JEDZ URANU<br>
+<img alt="Pasted image 20240529185418.png" src="lib/media/pasted-image-20240529185418.png">
+<br>Zjawiska wypromieniowania elektronu w promieniowaniu beta nie da się&nbsp;wytłumaczyć elektromagnetyzmem. Oddziaływanie słabe zamienia p-&gt;n lub n-&gt;p więc musimy wypromieniować ładunek. Tutaj zasada zachowania liczby leptonowej.<br>
+<img alt="Pasted image 20240529185609.png" src="lib/media/pasted-image-20240529185609.png"><br>
+Jak wytłumaczyć zasadę zachowania energii? No powstaje trzecia cząstka, ale bardzo ciężko ją zobaczyć. I po długim czasie zobaczono, no neutrino.<br>
+<img alt="Pasted image 20240529185731.png" src="lib/media/pasted-image-20240529185731.png"><br>
+<img alt="Pasted image 20240529185801.png" src="lib/media/pasted-image-20240529185801.png"><br>
+<img alt="Pasted image 20240529185814.png" src="lib/media/pasted-image-20240529185814.png"><br>
+<img alt="Pasted image 20240529185818.png" src="lib/media/pasted-image-20240529185818.png"><br>
+<img alt="Pasted image 20240529185855.png" src="lib/media/pasted-image-20240529185855.png">]]></description><link>fizyka-2/wykład-13.html</link><guid isPermaLink="false">Fizyka 2/Wykład 13.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 29 May 2024 16:58:55 GMT</pubDate><enclosure url="lib/media/pasted-image-20240529171853.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240529171853.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 14]]></title><description><![CDATA[ 
  <br>Neutrino ciąg dalszy.<br>
 <img alt="Pasted image 20240605173358.png" src="lib/media/pasted-image-20240605173358.png"><br>
 <img alt="Pasted image 20240605173430.png" src="lib/media/pasted-image-20240605173430.png"><br>
@@ -288,526 +810,4 @@ Nazwa bikini wzięła się z tego, że test jądrowy był prowadzony w Atolu Bik
 <img alt="Pasted image 20240605190413.png" src="lib/media/pasted-image-20240605190413.png"><br>
 <img alt="Pasted image 20240605190423.png" src="lib/media/pasted-image-20240605190423.png"><br>
 <img alt="Pasted image 20240605190427.png" src="lib/media/pasted-image-20240605190427.png"><br>
-<img alt="Pasted image 20240605190437.png" src="lib/media/pasted-image-20240605190437.png">]]></description><link>fizyka-2/wykład-14.html</link><guid isPermaLink="false">Fizyka 2/Wykład 14.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 05 Jun 2024 17:04:38 GMT</pubDate><enclosure url="lib/media/pasted-image-20240605173358.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240605173358.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Laby pomiary]]></title><description><![CDATA[ 
- <br>błąd - niemierzalna wartość, różnica między realną wartością badanego parametru a zmierzoną przez nas wartością.<br>
-niepewność - mierzalna wartość, mówiąca o dokładności naszego pomiaru<br>
-błąd gruby - pomyłka przy badaniu, wartość bardzo mocno odstająca od całej reszty.<br>Niepewność standardowa  to zazwyczaj odchylenie standardowe. Niepewności dzielimy na dwa typy:<br>
-<br>typ A - niepewności związane ze statystyką wyników, np. odchylenie standardowe średniej
-<br>typ B - wszystkie inne niepewności związane z danym badaniem, np. dokładność urządzenia pomiarowego.
-]]></description><link>fizyka-2/laby-pomiary.html</link><guid isPermaLink="false">Fizyka 2/Laby pomiary.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 04 Mar 2024 12:48:01 GMT</pubDate></item><item><title><![CDATA[Wykład 1]]></title><description><![CDATA[ 
- <br><img alt="Pasted image 20240221172339.png" src="lib/media/pasted-image-20240221172339.png"><br>
-Ciepło, temperatura<br>
-<img alt="Pasted image 20240221172444.png" src="lib/media/pasted-image-20240221172444.png"><br>
-!!!!<br>
-<img alt="Pasted image 20240221172644.png" src="lib/media/pasted-image-20240221172644.png"><br>
-Lodówka zużywa dużo elektryczności.<br>
-Utrzymywanie niezerowej różnicy temperatur jest trudne.<br>
-To coś z aco musimy zapłacić<br>
-Termodynamika ma nam wyjaśnić dlaczego tak jest, dlaczego musimy za to zapłacić by utrzymać różnicę temperatur<br>
-Podobnie z klimatyzacją i pompą ciepła, to wszystko wymaga pracy - wysiłku.<br>
-<img alt="Pasted image 20240221173147.png" src="lib/media/pasted-image-20240221173147.png"><br>
-Zamiana ciepła na pracę mechaniczną - silnik<br>
-To druga klasa urządzeń, których działanie opisuje termodynamika.<br>
-<img alt="Pasted image 20240221173329.png" src="lib/media/pasted-image-20240221173329.png"><br>
-Silniki parowe okazały się niezwykle przydatne -&gt; zarobas.<br>
-Termodynamika z tego powodu była bardzo potrzebna w czasach kiedy silniki się rozwijały, potrzebny był aparat pojęciowy.<br>
-Rozwineliśmy się:<br>
-<img alt="Pasted image 20240221173730.png" src="lib/media/pasted-image-20240221173730.png"><br>
-Trochę udało się&nbsp;ulepszyć silnik, ale nie jakoś bardzo.<br>
-<img alt="Pasted image 20240221173818.png" src="lib/media/pasted-image-20240221173818.png"><br>
-Nadal używamy takich silników, ale teraz nie są one używane do zyskania pracy mechanicznej. Turbina, która się obraca generuje energię&nbsp;elektryczną, podobnie przez reakcję jądrową.<br>
-<img alt="Pasted image 20240221174011.png" src="lib/media/pasted-image-20240221174011.png"><br>
-To wszystko powody, czemu termodynamika powstała.<br>
-<img alt="Pasted image 20240221174136.png" src="lib/media/pasted-image-20240221174136.png"><br>
-Definiujemy nowe pojęcia.<br>
-Fenomenologiczna - zaczynamy od tego, że zbieramy sobie wyniki eksperymentalne, a później znajdujemy w nich prawidłowości. Ale na razie nie staramy się ich wytłumaczyć (ang. phenomenon - zjawisko).<br>
-Ograniczamy się do własności ciał makroskopowych.<br>
-<img alt="Pasted image 20240221174500.png" src="lib/media/pasted-image-20240221174500.png"><br>
-Układ termodynamiczny, można go różnie zdefiniować.<br>
-Np. podgrzewany garnek z wodą, ma wiele układów termodynamicznych, np. woda, para albo woda, para, palnik a może sama woda.<br>
-Teraz zastanówmy się które parametry eksperymentów rzeczywiście mają&nbsp;znaczenie.<br>
-Są to parametry stanu.<br>
-Do stanu równowagowego układ będzie dążył sam z siebie, jeśli nic nie będziemy z nim robić. Np. gorąca herbata w kubku - skończy tracić temperaturę, jeśli osiągnie temperaturę otoczenia.<br>
-<img alt="Pasted image 20240221175209.png" src="lib/media/pasted-image-20240221175209.png"><br>
-Stan stacjonarny<br>
-Kawałek metalu między grzejnikiem a chłodnicą, metal ma różną temperaturę w różnych częściach, nie ma ustalonej temperatury stan związany z kawałkiem metalu, ale rozkład nie zmienia się w czasie, czyli jest to stan stacjonarny.<br>
-Proces termodynamiczny - gdy układ przechodzi między stanami układu.<br>
-<img alt="Pasted image 20240221175506.png" src="lib/media/pasted-image-20240221175506.png"><br>
-ciśnienie, objętość, temperatura - te rzeczy są parametrami stanu.<br>
-Jeśli wartość któregoś parametru się zmieni, to zachodzi proces termodynamiczny.<br>
-<img alt="Pasted image 20240221175732.png" src="lib/media/pasted-image-20240221175732.png"><br>
-Istnieje równanie wiążące parametry stanu, tylko na jednej powierzchni 3d, mogą być stany. Wystarczy nam punkt na dwuwymiarowej przestrzeni, resztę mamy za darmo.<br>
-Funkcja termodynamiczna, jest funkcją parametru stanu mającą konkretną wartość dla układu stanu.<br>
-<img alt="Pasted image 20240221180014.png" src="lib/media/pasted-image-20240221180014.png"><br>
-Kwazistatyczna - wolna<br>
-<img alt="Pasted image 20240222181816.png" src="lib/media/pasted-image-20240222181816.png"><br>
-Przechodniość pozwala nam na to by termometry istniały, to bardzo ważne!<br>
-<img alt="Pasted image 20240222181951.png" src="lib/media/pasted-image-20240222181951.png"><br>
-<img alt="Pasted image 20240222182009.png" src="lib/media/pasted-image-20240222182009.png"><br>
-Skala Celsjusza ma dwa punkty szczególne, 0 stopni jako temperatura graniczna zamarzania wody i 100 stopni jako temperatura wrzenia wody. Na tej podstawie powstała ta skala. Farenheity odnoszą się do odczuwalnej temperatury przez człowieka (trochę dziwne ale ok). Za to Kelviny powstały po odkryciach czym właściwie jest temperatura, gdyż faktycznie ona nie może by ujemna. Zero bezwzględne to stan gdy cząsteczki nie poruszają się - nie ma temperatury. Jest to prawdziwe 0, niżej być nie może, ale zachowano jednocześnie 1K = 1 stopień Celsjusza.<br>
-Zero bezwzględne,&nbsp;zero absolutne –&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Temperatura" rel="noopener" class="external-link" title="Temperatura" href="https://pl.wikipedia.org/wiki/Temperatura" target="_blank">temperatura</a>&nbsp;równa zero w&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Termodynamika" rel="noopener" class="external-link" title="Termodynamika" href="https://pl.wikipedia.org/wiki/Termodynamika" target="_blank">termodynamicznej skali temperatur</a>, czyli jest to temperatura, w której wszystkie elementy&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Uk%C5%82ad_termodynamiczny" rel="noopener" class="external-link" title="Układ termodynamiczny" href="https://pl.wikipedia.org/wiki/Uk%C5%82ad_termodynamiczny" target="_blank">układu termodynamicznego</a>&nbsp;uzyskują najniższą z możliwych&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Energia_(fizyka)" rel="noopener" class="external-link" title="Energia (fizyka)" href="https://pl.wikipedia.org/wiki/Energia_(fizyka)" target="_blank">energii</a>. Temperatura ta odpowiada −273,15&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Skala_Celsjusza" rel="noopener" class="external-link" title="Skala Celsjusza" href="https://pl.wikipedia.org/wiki/Skala_Celsjusza" target="_blank">°C</a>&nbsp;=&nbsp;0&nbsp;<a data-tooltip-position="top" aria-label="https://pl.wikipedia.org/wiki/Kelwin" rel="noopener" class="external-link" title="Kelwin" href="https://pl.wikipedia.org/wiki/Kelwin" target="_blank">K</a>.
-<br><img alt="Pasted image 20240222182426.png" src="lib/media/pasted-image-20240222182426.png"><br>
-<img alt="Pasted image 20240222182438.png" src="lib/media/pasted-image-20240222182438.png"><br>
-<img alt="Pasted image 20240222182452.png" src="lib/media/pasted-image-20240222182452.png"><br>
-W kosmosie panuje przyjemne ok. 2K temperatura.<br>
-<img alt="Pasted image 20240222182511.png" src="lib/media/pasted-image-20240222182511.png"><br>
-[Równanie Clapeyrona]<br>
-<br>
-<img alt="Pasted image 20240222182728.png" src="lib/media/pasted-image-20240222182728.png"><br>
-<img alt="Pasted image 20240222182736.png" src="lib/media/pasted-image-20240222182736.png"><br>
-Oczywiście mimo, że siła będzie różna to praca będzie równa (siła razy przemieszczenie), to znaczy, że duża platforma podniesie się o mniejszą wysokość niż mała platforma.<br>
-<img alt="Pasted image 20240222182826.png" src="lib/media/pasted-image-20240222182826.png"><br>
-W nowoczesnych autach jest już trochę inaczej.<br>
-<img alt="Pasted image 20240222182839.png" src="lib/media/pasted-image-20240222182839.png"><br>
-<img alt="Pasted image 20240222182856.png" src="lib/media/pasted-image-20240222182856.png"><br>
-Pokazanie, że energia mechaniczna zostaje przemieniona na ciepło (może pascal? idk). Bloczek spada, kręci kołowrotkiem, ciecz się miesza. Łatwo policzyć energię potencjalną, którą stracił bloczek, okazuje się,&nbsp;że temperatura zmieniła się o tyle ile energii stracił bloczek.<br>
-<img alt="Pasted image 20240222183027.png" src="lib/media/pasted-image-20240222183027.png"><br>
-Rzeczywiście, tak na prawdę aktualna energia wewnętrzna U układu przy procesach termodynamicznych nie jest istotna. Interesuje nas jego zmiana . Uwaga na W i Q.<br>
-<img alt="Pasted image 20240222183340.png" src="lib/media/pasted-image-20240222183340.png"><br>
-Ciśnienie . Zauważmy, że skoro praca wykonana nad układem jest całką, to jest to pole pod wykresem, różnych procesów, i ADC, będzie najbardziej optymalna pod kątem pracy. Natomiast energia wewnętrzna w A i C jest stała, i nie zależy od procesu, którego użyjemy.<br>
-<img alt="Pasted image 20240222183651.png" src="lib/media/pasted-image-20240222183651.png"><br>
-Uwaga na różnicę między  i . To czemu  jest przez układ, a  do układu jest umową opartą na tym jak to przebiega w silniku. Jest intuicyjna.<br>
-<img alt="Pasted image 20240222183908.png" src="lib/media/pasted-image-20240222183908.png">]]></description><link>fizyka-2/wykład-1.html</link><guid isPermaLink="false">Fizyka 2/Wykład 1.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 03 Jun 2024 19:44:58 GMT</pubDate><enclosure url="lib/media/pasted-image-20240221172339.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240221172339.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 2]]></title><description><![CDATA[ 
- <br><img alt="Pasted image 20240228171754.png" src="lib/media/pasted-image-20240228171754.png"><br>
-Moglibyśmy wybrać inne dwie zmienne niż p i v, ale jest to podyktowane tym, że przy takim wyborze pole pod wykresem jest pracą (całka). Ciepło nie ma prostej interpretacji, ale możemy znając pracę, użyć wzoru. W przypadku 6 dopóki cofamy v jest to praca ze znakiem ujemnym, potem gdy v rośnie mamy pracę ze znakiem plus.<br>
-<img alt="Pasted image 20240228172123.png" src="lib/media/pasted-image-20240228172123.png"><br>
-Jeśli przepływ ciepło to oznacza to zmianę temperaturę, tutaj pojawia się pojemność cieplna układu. Pojemność cieplna zależy od procesu.<br>
-Uwaga! Proces izochoryczny, proces izobaryczny.<br>
-Skoro to takie ważne, to fajnie by było móc przewidzieć jakie są pojemności cieplne, powiedzmy, że mamy proces termodynamiczny w którym chcemy podgrzać litr wody, no ale np. podgrzanie dwóch litrów wody to jest ten sam problem tylko trzeba dostarczyć 2x wiecej energii.<br>
-<img alt="Pasted image 20240228172734.png" src="lib/media/pasted-image-20240228172734.png"><br>
-Co ciekawe prez to że woda ma dużą pojemność cieplną to klimat w okolicach morza/oceanu jest mniej zmienny, a kontynentalny bardziej.<br>
-<img alt="Pasted image 20240228172929.png" src="lib/media/pasted-image-20240228172929.png"><br>
-Proces izochoryczny, np. zamykamy gaz w szczelnym, twardym pudełku.<br>
-Praca jest zawsze zerowa, więc delta U = Q = C_v * dT<br>
-Ciśnienie się zmienia, objętość nie, ale temperatura musi się proporcjonalnie zmieniać, bo Clapeyron:<br>
-pV = nRT<br>
-<img alt="Pasted image 20240228173404.png" src="lib/media/pasted-image-20240228173404.png"><br>
-Teraz stałe ciśnienie, taki proces to np. bierzemy pokrywkę, która jest ruchoma i obciążamy ją jakimś ciężarkiem, zmieniając temperaturę, pokrywka (tłok) idzie w górę i w dół, ciśnienie się nie zmienia, ale V i T tak.<br>
-<img alt="Pasted image 20240228173654.png" src="lib/media/pasted-image-20240228173654.png"><br>
-Uwaga! pojemność cieplna w procesie izobarycznym będzie większa niż p.c. w procesie izochorycznym. (pamiętaj R - dla gazy doskonłęgo.)<br>
-<img alt="Pasted image 20240228173911.png" src="lib/media/pasted-image-20240228173911.png"><br>
-<img alt="Pasted image 20240228174132.png" src="lib/media/pasted-image-20240228174132.png"><br>
-p = 1/V z clapeyrona<br>
-Na tej krzywej energia wewnętrzna jest taka sama.<br><img alt="Pasted image 20240228174432.png" src="lib/media/pasted-image-20240228174432.png">p V T<br>
-U W Q<br>
-Nie omówiliśmy przemiany w której nie byłoby przepływu ciepła:<br>
-<img alt="Pasted image 20240228174603.png" src="lib/media/pasted-image-20240228174603.png"><br>
-Dobry przykład próby zrobienia przemiany adiabatycznej, termos - ale jak wiemy to i tak wystygnie :|. Żeby osiągnąć przemianę adiabatycną, wystarczy zrobić przemianę szybko, ciepło nie zdąży przepłynąć.<br>
-<img alt="Pasted image 20240228174948.png" src="lib/media/pasted-image-20240228174948.png"><br>
-<img alt="Pasted image 20240228175050.png" src="lib/media/pasted-image-20240228175050.png"><br>
-kappa - współczynnik Poissona (płasona)<br>
-kappa &gt; 1<br>
-<img alt="Pasted image 20240228175229.png" src="lib/media/pasted-image-20240228175229.png"><br>
-Adiabata na pewno będzie bardziej stroma niż izoterma.<br>
-<img alt="Pasted image 20240228175344.png" src="lib/media/pasted-image-20240228175344.png"><br>
-C - pojemność&nbsp;cieplna (cena zmiany temperatury)<br>
-<img alt="Pasted image 20240228175552.png" src="lib/media/pasted-image-20240228175552.png"><br>
-<img alt="Pasted image 20240228175637.png" src="lib/media/pasted-image-20240228175637.png"><br>
-Historyjka (eksperyment myślowy):<br>
-Bierzemy kawałek kredy i nagrywamy filmik na youtube'a wrzucamy od przodu i od tyłu i prosimy o stwierdzenie który jest do tyłu.<br>
-Teraz bierzemy garnek z wodą o malej temperaturze i potem pojemnik z wodą o dużej temperaturze, oba pojemniki mają termometr, zadajemy to pytanie ponownie.<br>Jak zapisać wzór tego o czym mówimy?<br>
-<img alt="Pasted image 20240228180221.png" src="lib/media/pasted-image-20240228180221.png"><br>
-Aby proces był odwracalny, musi być na wykresie slajd temu.<br>
-Żaden proces rzeczywisty nie może być odwracalny, ale w przybliżeniu prawie niektóre.<br>
-<img alt="Pasted image 20240228181833.png" src="lib/media/pasted-image-20240228181833.png"><br>
-Cykl znaczy że układ wraca do stanu początkowego, energia wewnętrzna się nie zmienia, ale to nie znaczy, że nic się nie dzieje. W całym cyklu praca jest netto niezerowa. To pobiera ciepło i wykonuje pracę, To jest silnik!!<br>
-<img alt="Pasted image 20240228182306.png" src="lib/media/pasted-image-20240228182306.png"><br>
-Najważniejszy cykl!?<br>
-Grzejnik i chłodnica.<br>
-<img alt="Pasted image 20240228182625.png" src="lib/media/pasted-image-20240228182625.png"><br>
-Cel silnika: zamieniać ciepło na pracę, jak ocenić czy jest dobry? Chcemy żeby praca była jak największa a ciepło jak najmniejsze. Stąd sprawność. Q - ciepło z grzejnika, Q* - ciepło oddane do chłodnicy.<br>
-<img alt="Pasted image 20240228183006.png" src="lib/media/pasted-image-20240228183006.png"><br>
-Cykl Carnot jest cyklem o największej możliwej sprawności przy zadanej różnicy temperatur grzejnika i chłodnicy.<br>
-<img alt="Pasted image 20240228183347.png" src="lib/media/pasted-image-20240228183347.png"><br>
-<img alt="Pasted image 20240228183627.png" src="lib/media/pasted-image-20240228183627.png"><br>
-<img alt="Pasted image 20240228184008.png" src="lib/media/pasted-image-20240228184008.png"><br>
-<img alt="Pasted image 20240228184245.png" src="lib/media/pasted-image-20240228184245.png"><br>
-<img alt="Pasted image 20240228184259.png" src="lib/media/pasted-image-20240228184259.png"><br>
-Gdyby nie sprężarka taki proces byłby niemożliwy dzięku drugiej zasadzie termodynamiki.<br>
-<img alt="Pasted image 20240228184403.png" src="lib/media/pasted-image-20240228184403.png"><br>
-<img alt="Pasted image 20240228184414.png" src="lib/media/pasted-image-20240228184414.png"><br>
-w slajdach cały proces<br>
-<img alt="Pasted image 20240228184755.png" src="lib/media/pasted-image-20240228184755.png"><br>
-<img alt="Pasted image 20240228184900.png" src="lib/media/pasted-image-20240228184900.png"><br>
-<img alt="Pasted image 20240228184904.png" src="lib/media/pasted-image-20240228184904.png"><br>
-<img alt="Pasted image 20240228185156.png" src="lib/media/pasted-image-20240228185156.png"><br>
-Entropia jest tym co mówi jak się zachowuje nasz układ samorzutnie. Każda przemiana nieodwracalna zachodzi w kierunku zwiększenia entropii.<br>
-<img alt="Pasted image 20240228185609.png" src="lib/media/pasted-image-20240228185609.png"><br>
-<img alt="Pasted image 20240228185701.png" src="lib/media/pasted-image-20240228185701.png"><br>
-<img alt="Pasted image 20240228185819.png" src="lib/media/pasted-image-20240228185819.png"><br>
-Entropia jest fundamentalnym pojęciem, której konsekwencje sa ogromne. To ona mówi, że przyszłość to jest coś&nbsp;innego niż przeszłość. To ona to dyktuje. Przyszłość to kierunek w którym entropia rośnie. Jakie warunki matematyczne musi spełniać proces, żeby móc go nazwać życiem? Układ jest żywy jeśli aktywnie obniża swoją entropię kosztem otoczenia. Z otoczenia dostajemy obniżenie entropii, kosztem zewnętrza. W związku z tym żyjemy.]]></description><link>fizyka-2/wykład-2.html</link><guid isPermaLink="false">Fizyka 2/Wykład 2.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 28 Feb 2024 18:01:32 GMT</pubDate><enclosure url="lib/media/pasted-image-20240228171754.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240228171754.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 3]]></title><description><![CDATA[ 
- <br><img alt="Pasted image 20240306171849.png" src="lib/media/pasted-image-20240306171849.png"><br>
-Stan równowagi to taki stan w którym parametry intensywne mają taką samą wartość wszędzie &lt;=&gt; Można przypisać układowi jedną wartość paramatru intensywnego.<br>Entropia jest addytywna! - na razie bez dowodu (ale potem będzie). Ilość moli i objętość jest oczywista jako addytywne.<br>Potencjał chemiczny - o ile zwiększa się energia układu, gdy dodamy do układu jakąś ilość danej materii.<br>Parametr intensywny ma związany ze sobą parametr ekstensywny.<br>
-ciśnienie - objętość<br>
-temperatura - entropia<br>
-potencjał chemiczny - liczba moli<br><img alt="Pasted image 20240306173153.png" src="lib/media/pasted-image-20240306173153.png"><br>
-Ten wykres to dowód, że cykl Carnota ma maksymalną sprawność.<br><img alt="Pasted image 20240306173907.png" src="lib/media/pasted-image-20240306173907.png"><br>
-<img alt="Pasted image 20240306173910.png" src="lib/media/pasted-image-20240306173910.png"><br>
-<img alt="Pasted image 20240306174507.png" src="lib/media/pasted-image-20240306174507.png"><br>
-<img alt="Pasted image 20240306174520.png" src="lib/media/pasted-image-20240306174520.png"><br>
-Dopiero mechanika kwantowa da nam możliwość wytłumaczenia paradoksu Gibbsa.<br>
-<img alt="Pasted image 20240306174603.png" src="lib/media/pasted-image-20240306174603.png"><br>
-<img alt="Pasted image 20240306174657.png" src="lib/media/pasted-image-20240306174657.png"><br>
-<img alt="Pasted image 20240306174733.png" src="lib/media/pasted-image-20240306174733.png"><br>
-Głównie przydatne w chemii ^<br>
-Zmiana slajdów.<br>
-<img alt="Pasted image 20240306174944.png" src="lib/media/pasted-image-20240306174944.png"><br>
-<img alt="Pasted image 20240306175203.png" src="lib/media/pasted-image-20240306175203.png"><br>
-<img alt="Pasted image 20240306181929.png" src="lib/media/pasted-image-20240306181929.png"><br>
-<img alt="Pasted image 20240306181932.png" src="lib/media/pasted-image-20240306181932.png"><br>
-Einstein story - Zurich itd...<br>
-<img alt="Pasted image 20240306182539.png" src="lib/media/pasted-image-20240306182539.png"><br>
-<img alt="Pasted image 20240306182650.png" src="lib/media/pasted-image-20240306182650.png"><br>
-&lt; a &gt; - wartość średnia a - alternatywne oznaczenie - tego się zwykle używa w fizyce.<br>
-<img alt="Pasted image 20240306183220.png" src="lib/media/pasted-image-20240306183220.png"><br>
-<img alt="Pasted image 20240306183224.png" src="lib/media/pasted-image-20240306183224.png"><br>
-<img alt="Pasted image 20240306183835.png" src="lib/media/pasted-image-20240306183835.png"><br>
-<img alt="Pasted image 20240306184200.png" src="lib/media/pasted-image-20240306184200.png"><br>
-<img alt="Pasted image 20240306184646.png" src="lib/media/pasted-image-20240306184646.png"><br>
-<img alt="Pasted image 20240306184650.png" src="lib/media/pasted-image-20240306184650.png"><br>
-<img alt="Pasted image 20240306184653.png" src="lib/media/pasted-image-20240306184653.png"><br>
-<img alt="Pasted image 20240306184659.png" src="lib/media/pasted-image-20240306184659.png">]]></description><link>fizyka-2/wykład-3.html</link><guid isPermaLink="false">Fizyka 2/Wykład 3.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 06 Mar 2024 17:47:01 GMT</pubDate><enclosure url="lib/media/pasted-image-20240306171849.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240306171849.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 4]]></title><description><![CDATA[ 
- <br><img alt="Pasted image 20240313171629.png" src="lib/media/pasted-image-20240313171629.png"><br>
-<img alt="Pasted image 20240313171642.png" src="lib/media/pasted-image-20240313171642.png"><br>
-<img alt="Pasted image 20240313172444.png" src="lib/media/pasted-image-20240313172444.png"><br>
-Co musimy dodać do naszej hipotezy, żeby uzyskać uogólnienie. No prawdziwe gazy to nie są gazy doskonałe - tylko czemu? Czym się&nbsp;różnią od gazów doskonałych.<br>
-<img alt="Pasted image 20240313172623.png" src="lib/media/pasted-image-20240313172623.png"><br>
-Każdy stopień swobody jest taki sam<br>
-<img alt="Pasted image 20240313172810.png" src="lib/media/pasted-image-20240313172810.png"><br>
-Tylko gazy szlachetne - składające się z jednego atomu mają 5/3kT - no bo kuleczka ma 3 stopnie swobody. Teraz tlen - 5 stopni swobody, ale jest jeszcze energia potencjalna łączenia atomów - oddziaływanie columbowskie, więc 7 stopni swobody.<br>
-<img alt="Pasted image 20240313173254.png" src="lib/media/pasted-image-20240313173254.png"><br>
-<img alt="Pasted image 20240313173354.png" src="lib/media/pasted-image-20240313173354.png"><br>
-<img alt="Pasted image 20240313173422.png" src="lib/media/pasted-image-20240313173422.png"><br>
-<img alt="Pasted image 20240313173651.png" src="lib/media/pasted-image-20240313173651.png"><br>
-To jednocześnie sukces i porażka fizyki klasycznej. Powstała tu potrzeba wymyślenia nowej fizyki - mechaniki kwantowej - trwało to wiele lat.<br>
-<img alt="Pasted image 20240313174623.png" src="lib/media/pasted-image-20240313174623.png"><br>
-<img alt="Pasted image 20240313174638.png" src="lib/media/pasted-image-20240313174638.png"><br>
-W fizyce statystycznej traktujemy np. prędkość cząsteczek jako rozkład prawdopodobieństwa i rozkład jest stały dla pewnych warunków.<br>
-<img alt="Pasted image 20240313175528.png" src="lib/media/pasted-image-20240313175528.png"><br>
-<img alt="Pasted image 20240313181854.png" src="lib/media/pasted-image-20240313181854.png"><br>
-<img alt="Pasted image 20240313182451.png" src="lib/media/pasted-image-20240313182451.png"><br>
-<img alt="Pasted image 20240313182627.png" src="lib/media/pasted-image-20240313182627.png"><br>
-<img alt="Pasted image 20240313182933.png" src="lib/media/pasted-image-20240313182933.png"><br>
-<img alt="Pasted image 20240313183525.png" src="lib/media/pasted-image-20240313183525.png"><br>
-<img alt="Pasted image 20240313183529.png" src="lib/media/pasted-image-20240313183529.png"><br>
-<img alt="Pasted image 20240313183945.png" src="lib/media/pasted-image-20240313183945.png"><br>
-<img alt="Pasted image 20240313183950.png" src="lib/media/pasted-image-20240313183950.png"><br>
-<img alt="Pasted image 20240313185228.png" src="lib/media/pasted-image-20240313185228.png">]]></description><link>fizyka-2/wykład-4.html</link><guid isPermaLink="false">Fizyka 2/Wykład 4.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 13 Mar 2024 17:52:30 GMT</pubDate><enclosure url="lib/media/pasted-image-20240313171629.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240313171629.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 5]]></title><description><![CDATA[ 
- <br><img alt="Pasted image 20240320171755.png" src="lib/media/pasted-image-20240320171755.png"><br>
-<img alt="Pasted image 20240320172151.png" src="lib/media/pasted-image-20240320172151.png"><br>
-<img alt="Pasted image 20240320173052.png" src="lib/media/pasted-image-20240320173052.png"><br>
-Właśnie z nowej definicji entropii wyprowadziliśmy starą =&gt; tylko,&nbsp;że tamta była fenomenologiczna, więc mamy coś lepszego.<br>
-<img alt="Pasted image 20240320173246.png" src="lib/media/pasted-image-20240320173246.png"><br>
-Może nowa definicja sobie z tym poradzi?<br>
-<img alt="Pasted image 20240320173418.png" src="lib/media/pasted-image-20240320173418.png"><br>
-Niestety brakuje nam jeszcze mechaniki kwantowej żeby dokładnie rozwiązać ten paradoks, bo cząsteczki tego samego gazu, są fundamentalnie nierozróżnialne - na prawach mechaniki kwantowej. Jeśli są rozróżnialne, to jest dużo więcej stanów - można ponumerować atomy. Fajny wzorek dla bardzo dużych N po prawej. No i teraz możemy stwierdzić, że nie ma paradoksu - entropia nie wzrasta.<br>
-<img alt="Pasted image 20240320174359.png" src="lib/media/pasted-image-20240320174359.png"><br>
-<img alt="Pasted image 20240320174646.png" src="lib/media/pasted-image-20240320174646.png"><br>
-<img alt="Pasted image 20240320174933.png" src="lib/media/pasted-image-20240320174933.png"><br>
-<img alt="Pasted image 20240320175225.png" src="lib/media/pasted-image-20240320175225.png"><br>
-<img alt="Pasted image 20240320175257.png" src="lib/media/pasted-image-20240320175257.png"><br>
-<img alt="Pasted image 20240320175406.png" src="lib/media/pasted-image-20240320175406.png"><br>
-<img alt="Pasted image 20240320175437.png" src="lib/media/pasted-image-20240320175437.png"><br>
-<img alt="Pasted image 20240320175729.png" src="lib/media/pasted-image-20240320175729.png"><br>
-<img alt="Pasted image 20240320175945.png" src="lib/media/pasted-image-20240320175945.png"><br>
-<img alt="Pasted image 20240320180142.png" src="lib/media/pasted-image-20240320180142.png"><br>
-<img alt="Pasted image 20240320180615.png" src="lib/media/pasted-image-20240320180615.png"><br>
-<img alt="Pasted image 20240320180618.png" src="lib/media/pasted-image-20240320180618.png"><br>
-<img alt="Pasted image 20240320180621.png" src="lib/media/pasted-image-20240320180621.png"><br>
-Mocny dowód
-<br><br><img alt="Pasted image 20240320181944.png" src="lib/media/pasted-image-20240320181944.png"><br>
-<img alt="Pasted image 20240320182236.png" src="lib/media/pasted-image-20240320182236.png"><br>
-<img alt="Pasted image 20240320182252.png" src="lib/media/pasted-image-20240320182252.png"><br>
-<img alt="Pasted image 20240320183246.png" src="lib/media/pasted-image-20240320183246.png"><br>
-<img alt="Pasted image 20240320183250.png" src="lib/media/pasted-image-20240320183250.png"><br>
-<img alt="Pasted image 20240320183813.png" src="lib/media/pasted-image-20240320183813.png"><br>
-<img alt="Pasted image 20240320184232.png" src="lib/media/pasted-image-20240320184232.png"><br>
-<img alt="Pasted image 20240320184317.png" src="lib/media/pasted-image-20240320184317.png"><br>
-<img alt="Pasted image 20240320184528.png" src="lib/media/pasted-image-20240320184528.png"><img alt="Pasted image 20240320184911.png" src="lib/media/pasted-image-20240320184911.png"><br>
-<img alt="Pasted image 20240320184918.png" src="lib/media/pasted-image-20240320184918.png"><br>
-<img alt="Pasted image 20240320185135.png" src="lib/media/pasted-image-20240320185135.png"><br>
-<img alt="Pasted image 20240320185317.png" src="lib/media/pasted-image-20240320185317.png"><br>
-<img alt="Pasted image 20240320185320.png" src="lib/media/pasted-image-20240320185320.png"><br>
-<img alt="Pasted image 20240320185707.png" src="lib/media/pasted-image-20240320185707.png"><br>
-<img alt="Pasted image 20240320185710.png" src="lib/media/pasted-image-20240320185710.png"><br>
-Współczynnik załamania zależy również od długości fali, teraz dla nas to nieistotne, ale będzie kiedyś.<br>
-<img alt="Pasted image 20240320185749.png" src="lib/media/pasted-image-20240320185749.png"><br>
-<img alt="Pasted image 20240320185901.png" src="lib/media/pasted-image-20240320185901.png"><br>
-<img alt="Pasted image 20240320185924.png" src="lib/media/pasted-image-20240320185924.png"><br>
-<img alt="Pasted image 20240320190017.png" src="lib/media/pasted-image-20240320190017.png"><br>
-<img alt="Pasted image 20240320190131.png" src="lib/media/pasted-image-20240320190131.png">]]></description><link>fizyka-2/wykład-5.html</link><guid isPermaLink="false">Fizyka 2/Wykład 5.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 20 Mar 2024 18:01:33 GMT</pubDate><enclosure url="lib/media/pasted-image-20240320171755.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240320171755.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 6]]></title><description><![CDATA[ 
- <br><img alt="Pasted image 20240321120847.png" src="lib/media/pasted-image-20240321120847.png"><br>
-To co poprzednio robilliśmy to były bardzo podstawowe i proste rzeczy, pomyślmy czy z tego jesteśmy w stanie stworzyć ciekawe użyteczne przyrządy. PIerwszym co rozważamy jest zwieciadło - co więcej sferyczne. Powierzchnia lustrzana<br>
-<img alt="Pasted image 20240321121255.png" src="lib/media/pasted-image-20240321121255.png"><br>
-<img alt="Pasted image 20240321121624.png" src="lib/media/pasted-image-20240321121624.png"><br>
-<img alt="Pasted image 20240321122031.png" src="lib/media/pasted-image-20240321122031.png"><br>
-<img alt="Pasted image 20240321122036.png" src="lib/media/pasted-image-20240321122036.png"><br>
-Antena satelitarna to zwierciadło paraboliczne.<br>
-<img alt="Pasted image 20240321122455.png" src="lib/media/pasted-image-20240321122455.png"><br>
-<img alt="Pasted image 20240321122602.png" src="lib/media/pasted-image-20240321122602.png"><br>
-<img alt="Pasted image 20240321122931.png" src="lib/media/pasted-image-20240321122931.png"><br>
-<img alt="Pasted image 20240321123332.png" src="lib/media/pasted-image-20240321123332.png"><img alt="Pasted image 20240321123516.png" src="lib/media/pasted-image-20240321123516.png"><br>
-<img alt="Pasted image 20240321123659.png" src="lib/media/pasted-image-20240321123659.png"><br>
-<img alt="Pasted image 20240321124031.png" src="lib/media/pasted-image-20240321124031.png"><br>
-<img alt="Pasted image 20240321124035.png" src="lib/media/pasted-image-20240321124035.png"><br>
-<img alt="Pasted image 20240321124039.png" src="lib/media/pasted-image-20240321124039.png"><br>
-<img alt="Pasted image 20240321124415.png" src="lib/media/pasted-image-20240321124415.png"><br>
-<img alt="Pasted image 20240321124816.png" src="lib/media/pasted-image-20240321124816.png"><br>
-<img alt="Pasted image 20240321125123.png" src="lib/media/pasted-image-20240321125123.png"><br>
-<img alt="Pasted image 20240321125158.png" src="lib/media/pasted-image-20240321125158.png"><br>
-<img alt="Pasted image 20240321125359.png" src="lib/media/pasted-image-20240321125359.png"><br>
-<img alt="Pasted image 20240321125417.png" src="lib/media/pasted-image-20240321125417.png"><br>
-<img alt="Pasted image 20240321130236.png" src="lib/media/pasted-image-20240321130236.png"><br><a data-tooltip-position="top" aria-label="file:///home/mytkom/Documents/Fizyka%202/Optyka-6-optyka-falowa-2022.pdf" rel="noopener" class="external-link" href="file://home/mytkom/Documents/Fizyka 2/Optyka-6-optyka-falowa-2022.pdf" target="_blank">Nowe slajdy</a><br>
-<img alt="Pasted image 20240321130328.png" src="lib/media/pasted-image-20240321130328.png"><br>
-<img alt="Pasted image 20240321130438.png" src="lib/media/pasted-image-20240321130438.png"><br>
-<img alt="Pasted image 20240321131007.png" src="lib/media/pasted-image-20240321131007.png"><br>
-<img alt="Pasted image 20240321131010.png" src="lib/media/pasted-image-20240321131010.png"><br>
-<img alt="Pasted image 20240321131305.png" src="lib/media/pasted-image-20240321131305.png"><br>
-Z zasady Huygensa można wyprowadzić&nbsp;prawo załamania.<br>
-<img alt="Pasted image 20240321131500.png" src="lib/media/pasted-image-20240321131500.png"><br>
-<img alt="Pasted image 20240321132101.png" src="lib/media/pasted-image-20240321132101.png"><br>
-<img alt="Pasted image 20240321132252.png" src="lib/media/pasted-image-20240321132252.png"><br>
-<img alt="Pasted image 20240321132843.png" src="lib/media/pasted-image-20240321132843.png"><br>
-<img alt="Pasted image 20240321133040.png" src="lib/media/pasted-image-20240321133040.png"><br>
-<img alt="Pasted image 20240321133247.png" src="lib/media/pasted-image-20240321133247.png"><br>
-<img alt="Pasted image 20240321133251.png" src="lib/media/pasted-image-20240321133251.png"><br>
-<img alt="Pasted image 20240321133618.png" src="lib/media/pasted-image-20240321133618.png"><br>
-<img alt="Pasted image 20240321133635.png" src="lib/media/pasted-image-20240321133635.png"><br>
-<img alt="Pasted image 20240321133742.png" src="lib/media/pasted-image-20240321133742.png"><br>
-<img alt="Pasted image 20240321133842.png" src="lib/media/pasted-image-20240321133842.png"><br>
-Optyka tak na prawdę zaczęła się jako diedzina nauki kiedy odkryto laser.]]></description><link>fizyka-2/wykład-6.html</link><guid isPermaLink="false">Fizyka 2/Wykład 6.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Mon, 03 Jun 2024 19:49:58 GMT</pubDate><enclosure url="lib/media/pasted-image-20240321120847.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240321120847.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 7]]></title><description><![CDATA[ 
- <br><img alt="Pasted image 20240327173643.png" src="lib/media/pasted-image-20240327173643.png"><br>
-<img alt="Pasted image 20240327173701.png" src="lib/media/pasted-image-20240327173701.png"><br>
-<img alt="Pasted image 20240327173704.png" src="lib/media/pasted-image-20240327173704.png"><br>
-<img alt="Pasted image 20240327174227.png" src="lib/media/pasted-image-20240327174227.png"><br>
-<img alt="Pasted image 20240327174329.png" src="lib/media/pasted-image-20240327174329.png"><br>
-<img alt="Pasted image 20240327174828.png" src="lib/media/pasted-image-20240327174828.png"><br>
-<img alt="Pasted image 20240327174923.png" src="lib/media/pasted-image-20240327174923.png"><br>
-<img alt="Pasted image 20240327175017.png" src="lib/media/pasted-image-20240327175017.png"><br>
-<img alt="Pasted image 20240327175505.png" src="lib/media/pasted-image-20240327175505.png"><br>
-<img alt="Pasted image 20240327175752.png" src="lib/media/pasted-image-20240327175752.png"><br>
-<img alt="Pasted image 20240327175945.png" src="lib/media/pasted-image-20240327175945.png"><br>
-<img alt="Pasted image 20240327181513.png" src="lib/media/pasted-image-20240327181513.png"><br>
-<img alt="Pasted image 20240327181516.png" src="lib/media/pasted-image-20240327181516.png"><br>
-<img alt="Pasted image 20240327181820.png" src="lib/media/pasted-image-20240327181820.png"><br>
-<img alt="Pasted image 20240327182202.png" src="lib/media/pasted-image-20240327182202.png"><br>
-<img alt="Pasted image 20240327182206.png" src="lib/media/pasted-image-20240327182206.png"><br>
-<img alt="Pasted image 20240327182409.png" src="lib/media/pasted-image-20240327182409.png"><br>
-<img alt="Pasted image 20240327182751.png" src="lib/media/pasted-image-20240327182751.png"><br>
-<img alt="Pasted image 20240327182909.png" src="lib/media/pasted-image-20240327182909.png"><br>
-<img alt="Pasted image 20240327182928.png" src="lib/media/pasted-image-20240327182928.png"><br>
-<img alt="Pasted image 20240327182934.png" src="lib/media/pasted-image-20240327182934.png"><br>
-<img alt="Pasted image 20240327183135.png" src="lib/media/pasted-image-20240327183135.png"><br>
-<img alt="Pasted image 20240327183337.png" src="lib/media/pasted-image-20240327183337.png"><br>
-Następne slajdy<br>
-<img alt="Pasted image 20240327183541.png" src="lib/media/pasted-image-20240327183541.png"><br>
-Ciało doskonale czarne może świecić, ale nie odbija.<br>
-<img alt="Pasted image 20240327184451.png" src="lib/media/pasted-image-20240327184451.png"><br>
-<img alt="Pasted image 20240327184454.png" src="lib/media/pasted-image-20240327184454.png"><br>
-<img alt="Pasted image 20240327185057.png" src="lib/media/pasted-image-20240327185057.png"><br>
-<img alt="Pasted image 20240327185100.png" src="lib/media/pasted-image-20240327185100.png"><br>
-<img alt="Pasted image 20240327185103.png" src="lib/media/pasted-image-20240327185103.png"><br>
-<img alt="Pasted image 20240327185351.png" src="lib/media/pasted-image-20240327185351.png"><br>
-<img alt="Pasted image 20240327185356.png" src="lib/media/pasted-image-20240327185356.png"><br>
-<img alt="Pasted image 20240327185443.png" src="lib/media/pasted-image-20240327185443.png">]]></description><link>fizyka-2/wykład-7.html</link><guid isPermaLink="false">Fizyka 2/Wykład 7.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 27 Mar 2024 17:54:45 GMT</pubDate><enclosure url="lib/media/pasted-image-20240327173643.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240327173643.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 9]]></title><description><![CDATA[ 
- <br>Początek mechaniki kwantowej<br>
-Dzisiejsza nowoczesna fizyka jest zastosowaniem teorii grup.<br>
-Supremacja kwantowa - tylko dla niektórych problemów.<br>
-<img alt="Pasted image 20240417144751.png" src="lib/media/pasted-image-20240417144751.png"><br>
-<img alt="Pasted image 20240417144803.png" src="lib/media/pasted-image-20240417144803.png"><br>
-<img alt="Pasted image 20240417145231.png" src="lib/media/pasted-image-20240417145231.png"><br>
-<img alt="Pasted image 20240417150513.png" src="lib/media/pasted-image-20240417150513.png"><br>
-Funkcja urojona zmiennej rzeczywistej<br>
-<img alt="Pasted image 20240417151343.png" src="lib/media/pasted-image-20240417151343.png"><br>
-<img alt="Pasted image 20240417151543.png" src="lib/media/pasted-image-20240417151543.png"><br>
-input równania: tylko operator A<br>
-zarówno  i  to wyniki<br>
- jest rozwiązaniem równania, każde  jest dobrym rozwiązaniem równania, ale nas interesuje para  i . Dostajemy z tego zbiór rozwiązań wartości własnej i funkcji własnej.<br>
-Rozważmy przypadek, gdy nasza funkcja jest okresowa.<br>
- to warunek kwantowania Bohra, wyszedł nam z tych rozważań.<br>
-<img alt="Pasted image 20240417152253.png" src="lib/media/pasted-image-20240417152253.png"><br>
-Niektóre pary operatorów nie są przemienne - nie komutują - ich operator nie wynosi 0.<br>Operator A to pomiar.<br>
-u_n(x) to obiekt na którym wykonujemy pomiar (np. cząstka - technicznie to może być wszystko).<br>
-a_n to jeden z możliwych wyników pomiaru.<br>
-<img alt="Pasted image 20240417152904.png" src="lib/media/pasted-image-20240417152904.png"><br>
-<img alt="Pasted image 20240417152917.png" src="lib/media/pasted-image-20240417152917.png"><br>
-<img alt="Pasted image 20240417153629.png" src="lib/media/pasted-image-20240417153629.png"><br>
-<img alt="Pasted image 20240417154156.png" src="lib/media/pasted-image-20240417154156.png"><br>
-<img alt="Pasted image 20240417154203.png" src="lib/media/pasted-image-20240417154203.png">]]></description><link>fizyka-2/wykład-9.html</link><guid isPermaLink="false">Fizyka 2/Wykład 9.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 17 Apr 2024 13:42:05 GMT</pubDate><enclosure url="lib/media/pasted-image-20240417144751.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240417144751.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 10]]></title><description><![CDATA[ 
- <br><img alt="Pasted image 20240424173222.png" src="lib/media/pasted-image-20240424173222.png"><br>
-Bóg nie gra w kości - reference<br>
-<img alt="Pasted image 20240424173228.png" src="lib/media/pasted-image-20240424173228.png"><br>
-<img alt="Pasted image 20240424173208.png" src="lib/media/pasted-image-20240424173208.png"><br>
-<img alt="Pasted image 20240424175325.png" src="lib/media/pasted-image-20240424175325.png"><br>
-<img alt="Pasted image 20240424175650.png" src="lib/media/pasted-image-20240424175650.png"><br>
-Próba pomiaru jednego, powoduje niekontrolowaną zmianę drugiego.<br>
-<img alt="Pasted image 20240424181021.png" src="lib/media/pasted-image-20240424181021.png"><br>
-<img alt="Pasted image 20240424181719.png" src="lib/media/pasted-image-20240424181719.png"><br>
-<img alt="Pasted image 20240424182325.png" src="lib/media/pasted-image-20240424182325.png"><br>
-<img alt="Pasted image 20240424182533.png" src="lib/media/pasted-image-20240424182533.png"><br>
-<img alt="Pasted image 20240424182930.png" src="lib/media/pasted-image-20240424182930.png"><br>
-<img alt="Pasted image 20240424182936.png" src="lib/media/pasted-image-20240424182936.png"><br>
-<img alt="Pasted image 20240424183054.png" src="lib/media/pasted-image-20240424183054.png"><br>
-<img alt="Pasted image 20240424183543.png" src="lib/media/pasted-image-20240424183543.png"><br>
-<img alt="Pasted image 20240424183615.png" src="lib/media/pasted-image-20240424183615.png"><br>
-<img alt="Pasted image 20240424183639.png" src="lib/media/pasted-image-20240424183639.png"><br>
-<img alt="Pasted image 20240424183747.png" src="lib/media/pasted-image-20240424183747.png"><br>
-<img alt="Pasted image 20240424184002.png" src="lib/media/pasted-image-20240424184002.png"><br>
-<img alt="Pasted image 20240424184128.png" src="lib/media/pasted-image-20240424184128.png"><br>
-<img alt="Pasted image 20240424184546.png" src="lib/media/pasted-image-20240424184546.png"><br>
-<img alt="Pasted image 20240424184558.png" src="lib/media/pasted-image-20240424184558.png"><br>
-<img alt="Pasted image 20240424184824.png" src="lib/media/pasted-image-20240424184824.png"><br>
-Jeżeli nasze operatory komutują ze sobą to mają wspólne funkcje własne<br>
-<img alt="Pasted image 20240424185152.png" src="lib/media/pasted-image-20240424185152.png"><br>
-<img alt="Pasted image 20240424185708.png" src="lib/media/pasted-image-20240424185708.png">]]></description><link>fizyka-2/wykład-10.html</link><guid isPermaLink="false">Fizyka 2/Wykład 10.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 24 Apr 2024 16:57:10 GMT</pubDate><enclosure url="lib/media/pasted-image-20240424173222.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240424173222.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 11]]></title><description><![CDATA[ 
- <br>Nie było mnie na 30 minutach bo poprzedni wykład się przedłużył.<br>
-<img alt="Pasted image 20240508174816.png" src="lib/media/pasted-image-20240508174816.png"><br>
-<img alt="Pasted image 20240508174823.png" src="lib/media/pasted-image-20240508174823.png"><br>
-<img alt="Pasted image 20240508174945.png" src="lib/media/pasted-image-20240508174945.png"><br>
-<img alt="Pasted image 20240508175329.png" src="lib/media/pasted-image-20240508175329.png"><br>
-<img alt="Pasted image 20240508175333.png" src="lib/media/pasted-image-20240508175333.png"><br>
-Harmoniki sferyczne<br>
-<img alt="Pasted image 20240508181518.png" src="lib/media/pasted-image-20240508181518.png"><br>
-<img alt="Pasted image 20240508181521.png" src="lib/media/pasted-image-20240508181521.png"><br>
-<img alt="Pasted image 20240508181524.png" src="lib/media/pasted-image-20240508181524.png"><br>
-<img alt="Pasted image 20240508181923.png" src="lib/media/pasted-image-20240508181923.png"><br>
-<img alt="Pasted image 20240508181926.png" src="lib/media/pasted-image-20240508181926.png"><br>
-<img alt="Pasted image 20240508182502.png" src="lib/media/pasted-image-20240508182502.png"><br>
-<img alt="Pasted image 20240508182827.png" src="lib/media/pasted-image-20240508182827.png"><br>
-<img alt="Pasted image 20240508183046.png" src="lib/media/pasted-image-20240508183046.png"><br>
-<img alt="Pasted image 20240508183321.png" src="lib/media/pasted-image-20240508183321.png"><br>
-<img alt="Pasted image 20240508183423.png" src="lib/media/pasted-image-20240508183423.png"><br>
-<img alt="Pasted image 20240508183514.png" src="lib/media/pasted-image-20240508183514.png"><br>
-<img alt="Pasted image 20240508183922.png" src="lib/media/pasted-image-20240508183922.png"><br>
-<img alt="Pasted image 20240508184032.png" src="lib/media/pasted-image-20240508184032.png"><br>
-<img alt="Pasted image 20240508184035.png" src="lib/media/pasted-image-20240508184035.png"><br>
-2<br>
-8<br>
-18<br>
-32<br>
-Tak jak wynika z mechaniki kwantowej<br>
-<img alt="Pasted image 20240508184603.png" src="lib/media/pasted-image-20240508184603.png"><br>
-<img alt="Pasted image 20240508184621.png" src="lib/media/pasted-image-20240508184621.png"><br>
-Prawdziwie potężna teoria!
-]]></description><link>fizyka-2/wykład-11.html</link><guid isPermaLink="false">Fizyka 2/Wykład 11.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 08 May 2024 17:01:09 GMT</pubDate><enclosure url="lib/media/pasted-image-20240508174816.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240508174816.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 12]]></title><description><![CDATA[ 
- <br><img alt="Pasted image 20240522173024.png" src="lib/media/pasted-image-20240522173024.png"><br>
-<img alt="Pasted image 20240522173027.png" src="lib/media/pasted-image-20240522173027.png"><br>
-<img alt="Pasted image 20240522173030.png" src="lib/media/pasted-image-20240522173030.png"><br>
-<img alt="Pasted image 20240522173033.png" src="lib/media/pasted-image-20240522173033.png"><br>
-<img alt="Pasted image 20240522173341.png" src="lib/media/pasted-image-20240522173341.png"><br>
-<img alt="Pasted image 20240522173634.png" src="lib/media/pasted-image-20240522173634.png"><br>
-<img alt="Pasted image 20240522173922.png" src="lib/media/pasted-image-20240522173922.png"><br>
-<img alt="Pasted image 20240522174039.png" src="lib/media/pasted-image-20240522174039.png"><br>
-<img alt="Pasted image 20240522174233.png" src="lib/media/pasted-image-20240522174233.png"><br>
-<img alt="Pasted image 20240522174934.png" src="lib/media/pasted-image-20240522174934.png"><br>
-Czym cięższe jądro tym więcej chcemy mieć neutronów. (Żeby uzykać stabilne jądro)<img alt="Pasted image 20240522175459.png" src="lib/media/pasted-image-20240522175459.png"><br>
-<img alt="Pasted image 20240522175739.png" src="lib/media/pasted-image-20240522175739.png"><br>
-<img alt="Pasted image 20240522180000.png" src="lib/media/pasted-image-20240522180000.png"><br>
-<img alt="Pasted image 20240522181533.png" src="lib/media/pasted-image-20240522181533.png"><br>
-Wszystkie jądra które mają taką samą liczbę protonów i neutronów są NIEROZRÓŻNIALNE
-<br>Wzbudzone jądro ma inne własności mimo takiego samego A i Z - między innymi jest promieniotwórcze - to dość oczywiste.<br>
-<img alt="Pasted image 20240522181822.png" src="lib/media/pasted-image-20240522181822.png"><br>
-Przekrój czynny  - powierzchnia, wiązka zbliża się do kawałka materiału który jest rzadki, jakie jest prawdopodobieństwo tego, że jakaś cząstka trafi w jądro atomowe. Pole powierzchni jąder / pole powierzchni całości. Więc prawdopodobieństwo to pole przekroju jądra - ale robimy to bardziej subtelnie, bo jądro może rozpaść się na wiele cząstek.<br>
-<img alt="Pasted image 20240522182139.png" src="lib/media/pasted-image-20240522182139.png"><br>
-<img alt="Pasted image 20240522182419.png" src="lib/media/pasted-image-20240522182419.png"><br>
-Ile cząstek ubędzie nam z wiązki po przebyciu infinityzemalnej odległości.<br>
-<img alt="Pasted image 20240522182555.png" src="lib/media/pasted-image-20240522182555.png"><br>
-barn - stodoła<br>
-<img alt="Pasted image 20240522182732.png" src="lib/media/pasted-image-20240522182732.png"><br>
-<img alt="Pasted image 20240522182740.png" src="lib/media/pasted-image-20240522182740.png"><br>
-<img alt="Pasted image 20240522183102.png" src="lib/media/pasted-image-20240522183102.png"><br>
-Aston siedział 10 lat i mierzył spektroskopem masowym pierrwiastki występujące w przyrodzie.<br>
-Wszystkie są prawie dokładnie równie odległe o wielokrotność pewnej wartości masy.<br>
-<img alt="Pasted image 20240522183347.png" src="lib/media/pasted-image-20240522183347.png"><br>
-<img alt="Pasted image 20240522183354.png" src="lib/media/pasted-image-20240522183354.png"><br>
-Zwykle 1 lub 2 izotopy które dominują licznością, reszty jest mniej i im dalej od głównego tym mniej.<br>
-<img alt="Pasted image 20240522183544.png" src="lib/media/pasted-image-20240522183544.png"><br>
-Masy w układzie okresowym to uśrednione wartości, przecież makroskopowo mierzymy niezliczone ilości pierwiastków.<br>
-<img alt="Pasted image 20240522183631.png" src="lib/media/pasted-image-20240522183631.png"><br>
-Uwaga - skala logarytmiczna!!<br>
-Abundancja - częstość występowania w przyrodzie.<br>
-Liczby magiczne - liczby gdzie występuje peak abundancji<br>
-<img alt="Pasted image 20240522183931.png" src="lib/media/pasted-image-20240522183931.png"><br>
-Dół potencjału. E = mc^2<br>
-<img alt="Pasted image 20240522184458.png" src="lib/media/pasted-image-20240522184458.png"><br>
-Podwójnie magiczne = ma zarówno ilość protonów i neutronów jako liczba magiczna = jest bardzo silnie związana.<br>
-<img alt="Pasted image 20240522184706.png" src="lib/media/pasted-image-20240522184706.png"><br>
-Żelazo 56 ma maks. energię wiązania na nukleon.<br>
-<img alt="Pasted image 20240522184930.png" src="lib/media/pasted-image-20240522184930.png"><br>
-<img alt="Pasted image 20240522185044.png" src="lib/media/pasted-image-20240522185044.png"><br>
-<img alt="Pasted image 20240522185049.png" src="lib/media/pasted-image-20240522185049.png"><br>
-<img alt="Pasted image 20240522185124.png" src="lib/media/pasted-image-20240522185124.png"><br>
-<img alt="Pasted image 20240522185102.png" src="lib/media/pasted-image-20240522185102.png"><br>
-<img alt="Pasted image 20240522185742.png" src="lib/media/pasted-image-20240522185742.png"><br>
-<img alt="Pasted image 20240522185754.png" src="lib/media/pasted-image-20240522185754.png"><br>
-<img alt="Pasted image 20240522185801.png" src="lib/media/pasted-image-20240522185801.png">]]></description><link>fizyka-2/wykład-12.html</link><guid isPermaLink="false">Fizyka 2/Wykład 12.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 22 May 2024 16:58:03 GMT</pubDate><enclosure url="lib/media/pasted-image-20240522173024.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240522173024.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wykład 13]]></title><description><![CDATA[ 
- <br><img alt="Pasted image 20240529171853.png" src="lib/media/pasted-image-20240529171853.png"><br>
-<img alt="Pasted image 20240529171856.png" src="lib/media/pasted-image-20240529171856.png"><br>
-<img alt="Pasted image 20240529171948.png" src="lib/media/pasted-image-20240529171948.png"><br>
-<img alt="Pasted image 20240529172140.png" src="lib/media/pasted-image-20240529172140.png"><br>
-Oddziaływanie jest wysycone to znaczy że jak doklejamy nukleon to on reaguje tylko z najbliższymi a reszta jest zekranowana.<br>
-<img alt="Pasted image 20240529172633.png" src="lib/media/pasted-image-20240529172633.png"><br>
-Krótkozasięgowe!!<br>
-Oddziaływania wymienne - wymieniają coś, np wirtualny foton.<br>
-<img alt="Pasted image 20240529172943.png" src="lib/media/pasted-image-20240529172943.png"><br>
-Cząstka wirtualna - jest emitowana i prawie od razu znika<br>
-Jeśli złamiemy zasadę zachowania energii ale jeśli będzie ona trwała bardzo krótko to z zasady nieoznaczoności Heisenberga jest ok.<br>
-<img alt="Pasted image 20240529173459.png" src="lib/media/pasted-image-20240529173459.png"><br>
-Teoria nieprawdziwa choć przybliża dobrze oddziaływania międzykwarkowe i wymiany kolorów w skali protonów i neutronów w jądrze atomowym.<br>
-<img alt="Pasted image 20240529173835.png" src="lib/media/pasted-image-20240529173835.png"><br>
-<img alt="Pasted image 20240529173838.png" src="lib/media/pasted-image-20240529173838.png"><br>
-Uproszczony model użyteczny, bo nie poprzedni model jest zbyt skomplikowany, żeby przeprowadzać obliczenia dla bardziej skomplikowanych jąder - nie mamy tyle mocy obliczeniowej.<br>
-<img alt="Pasted image 20240529174121.png" src="lib/media/pasted-image-20240529174121.png"><br>
-<img alt="Pasted image 20240529174242.png" src="lib/media/pasted-image-20240529174242.png"><br>
-<img alt="Pasted image 20240529174405.png" src="lib/media/pasted-image-20240529174405.png"><br>
-<img alt="Pasted image 20240529174516.png" src="lib/media/pasted-image-20240529174516.png"><br>
-<img alt="Pasted image 20240529174518.png" src="lib/media/pasted-image-20240529174518.png"><br>
-<img alt="Pasted image 20240529174632.png" src="lib/media/pasted-image-20240529174632.png"><br>
-<img alt="Pasted image 20240529174644.png" src="lib/media/pasted-image-20240529174644.png"><br>
-<img alt="Pasted image 20240529174725.png" src="lib/media/pasted-image-20240529174725.png"><br>
-<img alt="Pasted image 20240529174729.png" src="lib/media/pasted-image-20240529174729.png"><br>
-<img alt="Pasted image 20240529174809.png" src="lib/media/pasted-image-20240529174809.png"><br>
-<img alt="Pasted image 20240529174829.png" src="lib/media/pasted-image-20240529174829.png"><br>
-<img alt="Pasted image 20240529174932.png" src="lib/media/pasted-image-20240529174932.png"><br>
-<img alt="Pasted image 20240529175121.png" src="lib/media/pasted-image-20240529175121.png"><br>
-<img alt="Pasted image 20240529175433.png" src="lib/media/pasted-image-20240529175433.png"><br>
-<img alt="Pasted image 20240529175506.png" src="lib/media/pasted-image-20240529175506.png"><br>
-<img alt="Pasted image 20240529175528.png" src="lib/media/pasted-image-20240529175528.png"><br>
-<img alt="Pasted image 20240529175532.png" src="lib/media/pasted-image-20240529175532.png"><br>
-<img alt="Pasted image 20240529175614.png" src="lib/media/pasted-image-20240529175614.png"><br>
-<img alt="Pasted image 20240529175617.png" src="lib/media/pasted-image-20240529175617.png"><br>
-Mimo, że matematyka takiego modelu jest zupełnie inna to wychodzą nam liczby magiczne. Jako powłoki nukleonów krążące dookoła siebie.<br>
-<img alt="Pasted image 20240529175803.png" src="lib/media/pasted-image-20240529175803.png"><br>
-Fizyka opisu zachowania jąder ciężkich nadal trwają. Tam nie jest wszystko wiadomo.<br>Nowe slajdy<br>
-<img alt="Pasted image 20240529182213.png" src="lib/media/pasted-image-20240529182213.png"><br>
-<img alt="Pasted image 20240529182217.png" src="lib/media/pasted-image-20240529182217.png"><br>
-<img alt="Pasted image 20240529182223.png" src="lib/media/pasted-image-20240529182223.png"><br>
-<img alt="Pasted image 20240529183341.png" src="lib/media/pasted-image-20240529183341.png"><br>
-Według kiśla gdzieś w top 10 naukowców świata.<br>
-<img alt="Pasted image 20240529183531.png" src="lib/media/pasted-image-20240529183531.png"><br>
-<img alt="Pasted image 20240529183534.png" src="lib/media/pasted-image-20240529183534.png"><br>
-<img alt="Pasted image 20240529183537.png" src="lib/media/pasted-image-20240529183537.png"><br>
-<img alt="Pasted image 20240529183743.png" src="lib/media/pasted-image-20240529183743.png"><br>
-<img alt="Pasted image 20240529183858.png" src="lib/media/pasted-image-20240529183858.png"><br>
-<img alt="Pasted image 20240529183901.png" src="lib/media/pasted-image-20240529183901.png"><br>
-<img alt="Pasted image 20240529184348.png" src="lib/media/pasted-image-20240529184348.png"><br>
-Promieniowanie Gamma - wyrzucenie nadmiaru energii.<br>
-<img alt="Pasted image 20240529184422.png" src="lib/media/pasted-image-20240529184422.png"><br>
-<img alt="Pasted image 20240529184610.png" src="lib/media/pasted-image-20240529184610.png"><br>
-<img alt="Pasted image 20240529184648.png" src="lib/media/pasted-image-20240529184648.png"><br>
-<img alt="Pasted image 20240529184650.png" src="lib/media/pasted-image-20240529184650.png"><br>
-Energetycznie korzystne jest żeby wypromieniować cząstkę alfa.<br>
-<img alt="Pasted image 20240529184907.png" src="lib/media/pasted-image-20240529184907.png"><br>
-Nasze rozumienie rozpadu alfa to kwantowe tunelowanie potencjału. Znamy prawdopodobieństwo tunelowania.<br>
-Tunelowanie cząstki alfa przez barierę potencjału.<br>
-<img alt="Pasted image 20240529185150.png" src="lib/media/pasted-image-20240529185150.png"><br>
-NIE JEDZ URANU<br>
-<img alt="Pasted image 20240529185418.png" src="lib/media/pasted-image-20240529185418.png">
-<br>Zjawiska wypromieniowania elektronu w promieniowaniu beta nie da się&nbsp;wytłumaczyć elektromagnetyzmem. Oddziaływanie słabe zamienia p-&gt;n lub n-&gt;p więc musimy wypromieniować ładunek. Tutaj zasada zachowania liczby leptonowej.<br>
-<img alt="Pasted image 20240529185609.png" src="lib/media/pasted-image-20240529185609.png"><br>
-Jak wytłumaczyć zasadę zachowania energii? No powstaje trzecia cząstka, ale bardzo ciężko ją zobaczyć. I po długim czasie zobaczono, no neutrino.<br>
-<img alt="Pasted image 20240529185731.png" src="lib/media/pasted-image-20240529185731.png"><br>
-<img alt="Pasted image 20240529185801.png" src="lib/media/pasted-image-20240529185801.png"><br>
-<img alt="Pasted image 20240529185814.png" src="lib/media/pasted-image-20240529185814.png"><br>
-<img alt="Pasted image 20240529185818.png" src="lib/media/pasted-image-20240529185818.png"><br>
-<img alt="Pasted image 20240529185855.png" src="lib/media/pasted-image-20240529185855.png">]]></description><link>fizyka-2/wykład-13.html</link><guid isPermaLink="false">Fizyka 2/Wykład 13.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 29 May 2024 16:58:55 GMT</pubDate><enclosure url="lib/media/pasted-image-20240529171853.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240529171853.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<img alt="Pasted image 20240605190437.png" src="lib/media/pasted-image-20240605190437.png">]]></description><link>fizyka-2/wykład-14.html</link><guid isPermaLink="false">Fizyka 2/Wykład 14.md</guid><dc:creator><![CDATA[Marek Mytkowski]]></dc:creator><pubDate>Wed, 05 Jun 2024 17:04:38 GMT</pubDate><enclosure url="lib/media/pasted-image-20240605173358.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240605173358.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
